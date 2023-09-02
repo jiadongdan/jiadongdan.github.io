@@ -144,9 +144,9 @@ h2 code {
 }
 
 .publication .section-1 .publication-name {
+    font-style: italic; 
     font-family: 'Ubuntu Mono', serif;
 }
-
 
 .publication .section-2 {
     font-family: 'Ubuntu Mono', serif;
