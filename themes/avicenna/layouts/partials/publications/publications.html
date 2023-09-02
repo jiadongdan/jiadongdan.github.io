@@ -13,13 +13,20 @@
                 <span>
                     {{$page.Params.title}},
                 </span>
-
+                
+                <!-- removed by Jiadong
                 <span class="text-muted publication-date">
                     {{substr ($page.Params.date.Format "2006-01-02") 0 4}},
                 </span>
+                -->
 
                 <span class="text-muted publication-name">
                     {{$page.Params.publication}}
+                </span>
+
+                <!-- added by Jiadong-->
+                <span class="text-muted publication-date">
+                    ({{substr ($page.Params.date.Format "2006-01-02") 0 4}}),
                 </span>
 
             </div>

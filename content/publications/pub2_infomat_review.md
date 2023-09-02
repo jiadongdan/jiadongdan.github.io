@@ -1,7 +1,7 @@
 ---
 title: "A machine perspective of atomic defects in scanning transmission electron microscopy"
 authors:
-- Dan Jiadong
+- Jiadong Dan
 - Xiaoxu Zhao, Stephen J. Pennycook
 date: "2019-08-15"
 

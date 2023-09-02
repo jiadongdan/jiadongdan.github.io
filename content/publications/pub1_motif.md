@@ -1,7 +1,7 @@
 ---
 title: "Learning motifs and their hierarchies in atomic resolution microscopy"
 authors:
-- Dan Jiadong
+- Jiadong Dan
 - Xiaoxu Zhao, Shoucong Ning, Jiong Lu, Qian He, Duane Loh, Stephen J. Pennycook 
 date: "2022-04-13"
 

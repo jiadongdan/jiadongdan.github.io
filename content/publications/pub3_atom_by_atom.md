@@ -2,7 +2,7 @@
 title: "Atom-by-Atom Fabrication of Monolayer Molybdenum Membranes"
 authors:
 - Xiaoxu Zhao#
-- Dan Jiadong#, Jianyi Chen, Zijing Ding, Wu Zhou, Kian Ping Loh, Stephen J. Pennycook
+- Jiadong Dan#, Jianyi Chen, Zijing Ding, Wu Zhou, Kian Ping Loh, Stephen J. Pennycook
 date: "2018-04-30"
 
 publication: "Advanced Materials"
