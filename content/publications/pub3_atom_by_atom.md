@@ -8,10 +8,11 @@ date: "2018-04-30"
 publication: "Advanced Materials"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
+    html: https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201707281
+    pdf: https://carbonlab.science.nus.edu.sg/pdf%20paper/Advanced_Materials.30-1707281.pdf
+    # code: https://github.com/hadisinaee/avicenna
+    #slides: https://github.com/hadisinaee/avicenna
+    #video: https://github.com/hadisinaee/avicenna
 
 ---
 
