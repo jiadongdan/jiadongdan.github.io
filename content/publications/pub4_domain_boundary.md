@@ -5,7 +5,7 @@ authors:
 - Moaz Waqar, Ivan Erofeev, Kui Yao, John Wang, Stephen J. Pennycook, N. Duane Loh
 date: "2023-05-23"
 
-publication: "arXiv preprint arXiv:2305.18325"
+publication: "Science Advances (in press)"
 
 links:
     pdf: https://arxiv.org/ftp/arxiv/papers/2305/2305.18325.pdf
