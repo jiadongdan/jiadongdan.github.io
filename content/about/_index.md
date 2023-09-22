@@ -4,7 +4,7 @@ date: 2020-10-20T17:51:47+03:30
 draft: false
 headless: true
 
-full_name: "Dan Jiadong"
+full_name: "Jiadong Dan"
 profile_picture: "profile.png"
 cv: "cv.pdf"
 # set to false if you don't want to show your blog
@@ -12,7 +12,7 @@ blog: false
 
 socials:
     twitter: "jiadong_dan"
-    github: "jiadong93"
+    github: "jiadongdan"
     google_scholar: "citations?user=U4t214wAAAAJ&hl=en"
 
 interests:
