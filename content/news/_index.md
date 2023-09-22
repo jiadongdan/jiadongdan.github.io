@@ -17,17 +17,17 @@ news_items:
   extra_text: "at 20th International Microscopy Congress, Sept. 2023."
   date: 2023-08-12
 
-- text: "I was honored to receive the Eric and Wendy Schmidt AI in Science Fellowship"
+- text: "I was honored to receive the Eric and Wendy Schmidt AI in Science Fellowship."
   link:
   extra_text: "a program by Schmidt Futures, Jul. 2023."
   date: 2023-07-31
 
-- text: "I won Postdoctoral Scholar Award by Microscopy Society of America"
+- text: "I won Postdoctoral Scholar Award by Microscopy Society of America (MSA)."
   link: https://www.microscopy.org/awards/2022_postdoctoralscholars.cfm
   extra_text: "Jul. 2022."
   date: 2022-07-31
 
-- text: "I was honored to receive NUS-NGS Scholarship"
+- text: "I was honored to receive NUS-NGS Scholarship."
   link: 
   extra_text: "Aug. 2015."
   date: 2015-08-08

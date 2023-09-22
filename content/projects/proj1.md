@@ -7,4 +7,3 @@ links:
     website: 'https://github.com/hadisinaee/avicenna'
     alias: link_name_here
 ---
-
