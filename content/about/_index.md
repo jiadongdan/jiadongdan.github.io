@@ -16,10 +16,10 @@ socials:
     google_scholar: "citations?user=U4t214wAAAAJ&hl=en"
 
 interests:
-    - Scanning Transmission Electron Microscopy
-    - Electron Microscopy Multislice Simulations
-    - Unsupervised Learning
-    - Self-supervised Learning (SSL)
+    - Physics-informed representation learning
+    - Generative models for electron microscopy data augmentation
+    - AI for inverse problem -- electron ptychography
+    - AI for data-sparse four-dimensional scanning transmission electron microscopy (4D-STEM)
 
 affiliations:
     - affiliation:
