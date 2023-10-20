@@ -23,7 +23,7 @@ news_items:
   date: 2023-07-31
 
 - text: "I won Postdoctoral Scholar Award by Microscopy Society of America (MSA)."
-  link: https://www.microscopy.org/awards/2022_postdoctoralscholars.cfm
+  link: https://microscopy.org/2022-M-M-Postdoctoral-Students#Jiadong%20Dan%20%E2%80%94;%20National%20University%20of%20Singapore
   extra_text: "Jul. 2022."
   date: 2022-07-31
 
