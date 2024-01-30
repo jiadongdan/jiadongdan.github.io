@@ -47,7 +47,7 @@ academia:
         other_info: ''
 ---
 
-I am a [Schmidt AI in Science Fellow][1] at the National University of Singapore (NUS) working at the intersection of machine learning (ML) and scanning transmission electron microscopy (STEM). Supervised by Prof. [Stephen J. Pennycook][2], my dissertation focused on using ML to efficiently identify quantum defects in atomic resolution STEM images. In my current postdoctoral role in Asist. Prof. [Duane Loh][2]'s group, I am interested in finding an efficient and explainable ML framework that describes a wide variety of important materials with disorder as a hierarchy of structural motifs.
+I am an [Eric and Wendy Schmidt AI in Science Fellow][1] at the National University of Singapore (NUS) working at the intersection of machine learning (ML) and scanning transmission electron microscopy (STEM). Supervised by Prof. [Stephen J. Pennycook][2], my dissertation focused on using ML to efficiently identify quantum defects in atomic resolution STEM images. In my current postdoctoral role in Asist. Prof. [Duane Loh][2]'s group, I am interested in finding an efficient and explainable ML framework that describes a wide variety of important materials with disorder as a hierarchy of structural motifs.
 
 I am grateful to be supported by the **Eric and Wendy Schmidt AI in Science Fellowship**.
 
