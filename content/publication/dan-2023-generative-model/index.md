@@ -28,5 +28,5 @@ abstract: A continuing challenge in atomic resolution microscopy is to identify 
 tags:
 - generative model
 
-url_doi: https://doi.org/10.1126/sciadv.adj0904
+doi: https://doi.org/10.1126/sciadv.adj0904
 ---
