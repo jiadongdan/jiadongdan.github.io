@@ -12,7 +12,7 @@ i_am_a_sponsor: true
 appearance:
   theme_day: custom
   theme_night:
-  font: rose
+  font: roboto
   font_size: M
 
 # SEO
