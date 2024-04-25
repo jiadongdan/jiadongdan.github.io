@@ -1,0 +1,8 @@
+// Setting all link colors
+a {
+  color: #8C1515; // Dark red color
+
+  &:hover {
+    color: darken(#8C1515, 10%); // Optionally darken the color on hover for better user interaction
+  }
+}
