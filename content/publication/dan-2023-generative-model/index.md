@@ -32,7 +32,7 @@ tags:
 doi: https://doi.org/10.1126/sciadv.adj0904
 
 links:
-- name: "News"
+- name: News
    url: "https://www.science.org/doi/epdf/10.1126/sciadv.adj0904"
 url_pdf: https://www.science.org/doi/epdf/10.1126/sciadv.adj0904
 url_code: ''
