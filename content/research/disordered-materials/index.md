@@ -41,7 +41,6 @@ categories:
 - complexity
 ---
 
-In [**this paper**](../../publication/deng-2022-topological)
 
 ### Selected publications:
 1. <span style="color:darkgray">**Jiadong Dan**, Moaz Waqar, Ivan Erofeev, Kui Yao, John Wang, Stephen J Pennycook, N Duane Loh</span> (2023). [**A multiscale generative model to understand disorder in domain boundaries.**](../../publication/dan-2023-generative-model/). ***Science Advances***. <br/>

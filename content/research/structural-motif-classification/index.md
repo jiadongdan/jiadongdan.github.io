@@ -42,8 +42,6 @@ categories:
 - 2D materials
 ---
 
-In [**this paper**](../../publication/deng-2022-topological)
-
 ### Selected publications:
 1. <span style="color:darkgray">**Jiadong Dan**, Xiaoxu Zhao, Stephen J Pennycook</span> (2019). [**A machine perspective of atomic defects in scanning transmission electron microscopy**](../../publication/dan-2019-review/). ***InfoMat***. <br/>
 2. <span style="color:darkgray">**Jiadong Dan**, Xiaoxu Zhao, Shoucong Ning, Jiong Lu, Kian Ping Loh, Qian He, N Duane Loh, Stephen J Pennycook</span> (2022). [**Learning motifs and their hierarchies in atomic resolution microscopy**](../../publication/dan-2022-motif/). ***Science Advances***. <br/>
