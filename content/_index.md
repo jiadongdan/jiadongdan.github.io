@@ -27,9 +27,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        I am an [Eric and Wendy Schmidt AI in Science Fellow](https://www.schmidtfutures.com/our-work/schmidt-ai-in-science-postdocs/) at the National University of Singapore (NUS) working at the intersection of machine learning (ML) and scanning transmission electron microscopy (STEM). Supervised by Prof. [Stephen J. Pennycook](https://scholar.google.com/citations?user=UnDfo6sAAAAJ&hl=en), my dissertation focused on using ML to efficiently identify quantum defects in atomic resolution STEM images. In my current postdoctoral role in Asist. Prof. [Duane Loh](https://scholar.google.com/citations?user=UnDfo6sAAAAJ&hl=en)’s group, I am interested in finding an efficient and explainable ML framework that describes a wide variety of important materials with disorder as a hierarchy of structural motifs.
     design:
       columns: '1'
   - block: collection
