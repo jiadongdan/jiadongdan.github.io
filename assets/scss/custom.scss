@@ -9,6 +9,10 @@
   &:visited {
     color: #8C1515; // Dark red color
   }
+
+  &:focus {
+    color: #8C1515; // Dark red color
+  }
 }
 
 // Apply mixin to all <a> tags
