@@ -36,9 +36,10 @@ tags:
 - Academic
 
 categories:
-- disordered materials
-- emergence
-- complexity
+- motifs
+- classification
+- defects
+- 2D materials
 ---
 
 In [**this paper**](../../publication/deng-2022-topological)
