@@ -4,7 +4,7 @@ type: landing
 date: 2022-10-25
 
 sections:
-  - block: awards
+  - block: markdown
     content:
       title: Awards and Honors
       subtitle:
