@@ -22,8 +22,7 @@ date: '2019-08-01'
 publishDate: '2024-04-24T14:45:57.254182Z'
 publication_types:
 - article-journal
-publication: '*Nano Letters*'
+publication: '***Nano Letters***'
 tags:
-- Tungsten disulfide (WS); multiphonon absorption; one-photon excitation; photodetectors;
-  upconversion
+- 2D materials
 ---

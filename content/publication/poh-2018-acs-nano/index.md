@@ -16,8 +16,7 @@ date: '2018-08-01'
 publishDate: '2024-04-24T14:45:57.299141Z'
 publication_types:
 - article-journal
-publication: '*ACS Nano*'
+publication: '***ACS Nano***'
 tags:
-- MoSe2; field-effect transistor; grain boundaries; mobility; molecular beam epitaxy;
-  two-dimensional transition metal dichalcogenides
+- 2D materials
 ---

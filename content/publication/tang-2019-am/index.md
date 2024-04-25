@@ -17,7 +17,7 @@ date: '2019-06-01'
 publishDate: '2024-04-24T14:45:57.266869Z'
 publication_types:
 - article-journal
-publication: '*Advanced Materials*'
+publication: '***Advanced Materials***'
 tags:
-- atom displacement; phase transitions; ternary tellurides; tunable bandgaps
+- 2D materials
 ---

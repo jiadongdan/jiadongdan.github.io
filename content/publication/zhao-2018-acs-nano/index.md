@@ -14,8 +14,7 @@ date: '2018-02-01'
 publishDate: '2024-04-24T14:45:57.305830Z'
 publication_types:
 - article-journal
-publication: '*ACS Nano*'
+publication: '***ACS Nano***'
 tags:
-- domain walls; scanning transmission electron microscopy; strain engineering; transition
-  metal dichalcogenides; van der Waals coupling
+- 2D materials
 ---

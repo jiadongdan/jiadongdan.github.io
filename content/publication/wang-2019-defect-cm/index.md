@@ -16,5 +16,5 @@ date: '2019-10-01'
 publishDate: '2024-04-24T14:45:57.234494Z'
 publication_types:
 - article-journal
-publication: '*Chemistry of Materials*'
+publication: '***Chemistry of Materials***'
 ---

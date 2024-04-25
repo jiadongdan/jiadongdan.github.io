@@ -16,8 +16,7 @@ date: '2021-04-01'
 publishDate: '2024-04-24T14:45:57.221413Z'
 publication_types:
 - article-journal
-publication: '*Nano Letters*'
+publication: '***Nano Letters***'
 tags:
-- Atomic reconstructions; Interphase transitions; Moiré structures; Scanning transmission
-  electron microscopy; Strain profiles; Twisted 2D materials
+- 2D materials
 ---

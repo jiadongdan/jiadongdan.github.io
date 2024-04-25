@@ -14,8 +14,7 @@ date: '2019-04-01'
 publishDate: '2024-04-24T14:45:57.273289Z'
 publication_types:
 - article-journal
-publication: '*Advanced Materials*'
+publication: '***Advanced Materials***'
 tags:
-- 2D chalcogenides; defects healing; in situ scanning transmission electron microscopy;
-  interlayer van der Waals coupling
+- 2D materials
 ---

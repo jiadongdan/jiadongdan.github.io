@@ -21,7 +21,7 @@ date: '2019-09-01'
 publishDate: '2024-04-24T14:45:57.247477Z'
 publication_types:
 - article-journal
-publication: '*ACS Nano*'
+publication: '***ACS Nano***'
 tags:
-- Nb-doped WS2; large-scale; monolayer; p-type; substitutional doping
+- 2D materials
 ---
