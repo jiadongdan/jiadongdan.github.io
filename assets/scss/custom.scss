@@ -6,9 +6,12 @@
 // Apply mixin to all <a> tags
 a {
   @include link-styles;
+  &:visited {
+    color: #8C1515;
+  }
 }
 
-// Apply the same styles to elements with class .btn
+// Apply the same styles to elements with class .btn, this controls the text color in the button
 .btn {
   @include link-styles;
 
@@ -22,9 +25,4 @@ a {
   @include link-styles;
   border-color: #8C1515;
   //border-color: #dd2c00;
-}
-
-// Apply the same styles to elements with class .btn-page-header
-.btn-page-header {
-  @include link-styles;
 }
