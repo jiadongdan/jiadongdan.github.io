@@ -39,7 +39,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/jiadongdan
-- icon: x-twitter
+- icon: x
   icon_pack: fab
   link: https://twitter.com/jiadong_dan
 # Link to a PDF of your resume/CV from the About widget.
