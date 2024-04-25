@@ -47,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year}. All rights reserved.'
+    notice: '© {year} Jiadong Dan. Published with Hugo.'
     license:
       enable: false
       allow_derivatives: false
