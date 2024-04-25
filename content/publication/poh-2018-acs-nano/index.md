@@ -7,7 +7,7 @@ authors:
 - Deyi Fu
 - Wenwen Fei
 - Leiqiang Chu
-- Dan Jiadong
+- admin
 - Wu Zhou
 - Stephen J Pennycook
 - Antonio H Castro Neto

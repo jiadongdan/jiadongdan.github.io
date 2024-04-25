@@ -10,7 +10,7 @@ authors:
 - Wei Fu
 - Ibrahim Abdelwahab
 - Jun Zhou
-- Jiadong Dan
+- admin
 - Zhongxin Chen
 - Zhi Chen
 - Zejun Li
@@ -23,7 +23,7 @@ date: '2019-10-01'
 publishDate: '2024-04-24T14:45:57.240788Z'
 publication_types:
 - article-journal
-publication: '*Adv. Mater.*'
+publication: '*Advanced Materials*'
 tags:
 - 2D ferromagnetism; VSe2 monolayers; chemical exfoliation; covalent passivation;
   vacancy enhanced ferromagnetism

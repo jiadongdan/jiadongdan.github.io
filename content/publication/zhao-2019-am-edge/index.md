@@ -5,7 +5,7 @@ authors:
 - Weiwei Sun
 - Dechao Geng
 - Wei Fu
-- Jiadong Dan
+- admin
 - Yu Xie
 - Paul R C Kent
 - Wu Zhou
@@ -15,7 +15,7 @@ date: '2019-04-01'
 publishDate: '2024-04-24T14:45:57.279573Z'
 publication_types:
 - article-journal
-publication: '*Adv. Mater.*'
+publication: '*Advanced Materials*'
 tags:
 - MXene; molybdenum carbide; phase engineering; scanning transmission electron microscopy
 ---

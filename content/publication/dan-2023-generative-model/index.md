@@ -1,7 +1,7 @@
 ---
 title: A multiscale generative model to understand disorder in domain boundaries
 authors:
-- Jiadong Dan
+- admin
 - Moaz Waqar
 - Ivan Erofeev
 - Kui Yao

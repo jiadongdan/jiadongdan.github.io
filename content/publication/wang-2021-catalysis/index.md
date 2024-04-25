@@ -4,7 +4,7 @@ title: Improving Photoelectrochemical Activity of ZnO/TiO2 Core--Shell Nanostruc
 authors:
 - Zeli Wang
 - Zhen Chen
-- Jiadong Dan
+- admin
 - Weiqiang Chen
 - Chenghang Zhou
 - Zexiang Shen

@@ -7,7 +7,7 @@ authors:
 - Pingping Sun
 - Xiaowei Wang
 - Lichun Bai
-- Jiadong Dan
+- admin
 - Jiefu Yang
 - Kun Zhou
 - Xiaoxu Zhao
@@ -17,7 +17,7 @@ date: '2019-06-01'
 publishDate: '2024-04-24T14:45:57.266869Z'
 publication_types:
 - article-journal
-publication: '*Adv. Mater.*'
+publication: '*Advanced Materials*'
 tags:
 - atom displacement; phase transitions; ternary tellurides; tunable bandgaps
 ---

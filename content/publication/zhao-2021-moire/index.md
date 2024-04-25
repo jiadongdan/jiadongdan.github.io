@@ -6,7 +6,7 @@ authors:
 - Jingsi Qiao
 - Si Min Chan
 - Jing Li
-- Jiadong Dan
+- admin
 - Shoucong Ning
 - Wu Zhou
 - Su Ying Quek
@@ -16,7 +16,7 @@ date: '2021-04-01'
 publishDate: '2024-04-24T14:45:57.221413Z'
 publication_types:
 - article-journal
-publication: '*Nano Lett.*'
+publication: '*Nano Letters*'
 tags:
 - Atomic reconstructions; Interphase transitions; Moiré structures; Scanning transmission
   electron microscopy; Strain profiles; Twisted 2D materials

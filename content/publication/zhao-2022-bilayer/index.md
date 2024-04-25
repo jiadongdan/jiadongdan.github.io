@@ -12,7 +12,7 @@ authors:
 - Jing Li
 - Henshui Zhang
 - Jiadong Zhou
-- Jiadong Dan
+- admin
 - Zhen Liu
 - Wu Zhou
 - Zheng Liu
@@ -25,7 +25,7 @@ date: '2022-01-01'
 publishDate: '2024-04-24T14:45:57.208352Z'
 publication_types:
 - article-journal
-publication: '*Nano Lett.*'
+publication: '*Nano Letters*'
 tags:
 - Twistronics; commensuration; moiré excitons; scanning transmission electron microscopy;
   twisted 2D homobilayers

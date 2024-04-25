@@ -2,7 +2,7 @@
 title: Defect Heterogeneity in Monolayer WS2 Unveiled by Work Function Variance
 authors:
 - Xinyun Wang
-- Jiadong Dan
+- admin
 - Zhenliang Hu
 - Jin Feng Leong
 - Qi Zhang
@@ -16,5 +16,5 @@ date: '2019-10-01'
 publishDate: '2024-04-24T14:45:57.234494Z'
 publication_types:
 - article-journal
-publication: '*Chem. Mater.*'
+publication: '*Chemistry of Materials*'
 ---

@@ -12,7 +12,7 @@ authors:
 - Justin Zhou Yong
 - Thorsten Schultz
 - Norbert Koch
-- Jiadong Dan
+- admin
 - Stephen J Pennycook
 - Dawen Zeng
 - Michel Bosman

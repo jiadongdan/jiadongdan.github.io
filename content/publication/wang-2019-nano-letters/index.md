@@ -7,7 +7,7 @@ authors:
 - Yu Jie Zheng
 - Junyong Wang
 - Xin Luo
-- Jiadong Dan
+- admin
 - Rui Zhu
 - Qijie Liang
 - Lei Zhang
@@ -22,7 +22,7 @@ date: '2019-08-01'
 publishDate: '2024-04-24T14:45:57.254182Z'
 publication_types:
 - article-journal
-publication: '*Nano Lett.*'
+publication: '*Nano Letters*'
 tags:
 - Tungsten disulfide (WS); multiphonon absorption; one-photon excitation; photodetectors;
   upconversion

@@ -9,7 +9,7 @@ authors:
 - Sherman J R Tan
 - Zhongxin Chen
 - Kai Leng
-- Jiadong Dan
+- admin
 - Wei Fu
 - Dechao Geng
 - Peng Song
@@ -23,7 +23,7 @@ date: '2018-01-01'
 publishDate: '2024-04-24T14:45:57.312150Z'
 publication_types:
 - article-journal
-publication: '*Nano Lett.*'
+publication: '*Nano Letters*'
 tags:
 - Molybdenum disulfide; edge magnetism; hydrogen evolution reactions; transition metal
   dichalcogenides

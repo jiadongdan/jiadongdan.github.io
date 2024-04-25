@@ -4,7 +4,7 @@ authors:
 - Xiaoxu Zhao
 - Zijing Ding
 - Jianyi Chen
-- Jiadong Dan
+- admin
 - Sock Mui Poh
 - Wei Fu
 - Stephen J Pennycook

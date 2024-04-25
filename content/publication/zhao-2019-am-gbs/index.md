@@ -5,7 +5,7 @@ authors:
 - Yujin Ji
 - Jianyi Chen
 - Wei Fu
-- Jiadong Dan
+- admin
 - Yuanyue Liu
 - Stephen J Pennycook
 - Wu Zhou
@@ -14,7 +14,7 @@ date: '2019-04-01'
 publishDate: '2024-04-24T14:45:57.273289Z'
 publication_types:
 - article-journal
-publication: '*Adv. Mater.*'
+publication: '*Advanced Materials*'
 tags:
 - 2D chalcogenides; defects healing; in situ scanning transmission electron microscopy;
   interlayer van der Waals coupling
