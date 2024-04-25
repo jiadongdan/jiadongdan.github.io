@@ -1,8 +1,18 @@
-// Setting all link colors
-a {
+// Define a mixin for reusable styles
+@mixin link-styles {
   color: #8C1515; // Dark red color
 
   &:hover {
-    color: darken(#8C1515, 10%); // Optionally darken the color on hover for better user interaction
+    color: darken(#8C1515, 10%); // Darken on hover
   }
+}
+
+// Apply mixin to all <a> tags
+a {
+  @include link-styles;
+}
+
+// Apply the same styles to elements with class .btn
+.btn {
+  @include link-styles;
 }
