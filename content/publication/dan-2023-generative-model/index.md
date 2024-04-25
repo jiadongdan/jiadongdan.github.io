@@ -27,6 +27,19 @@ abstract: A continuing challenge in atomic resolution microscopy is to identify 
 
 tags:
 - generative model
+- Markov chain
 
 doi: https://doi.org/10.1126/sciadv.adj0904
+
+links:
+- name: "News"
+   url: "https://www.science.org/doi/epdf/10.1126/sciadv.adj0904"
+url_pdf: https://www.science.org/doi/epdf/10.1126/sciadv.adj0904
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
