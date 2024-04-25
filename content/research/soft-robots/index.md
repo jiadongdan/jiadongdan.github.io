@@ -4,7 +4,7 @@ title: Soft robots via Architected Materials
 weight: 30
 
 # Summary for listings and search engines
-summary: <br/> **Selected publications:**<br/> 1. <span style="color:darkgray">**Bolei Deng**, Liyuan Chen, Donglai Wei, Vincent Tournat, Katia Bertoldi</span> (2020). [**Pulse-driven robot, Motion via solitary waves**](../../publication/deng-2020-pulse/). *Science Advances*. <br/> 2. <span style="color:darkgray">**Bolei Deng**#, Mohamed Zanaty#, Antonio E Forte, Katia Bertoldi</span> (2022). [**Topological solitons make metamaterials crawl**](../../publication/deng-2022-topological/). *Physical Review Applied*. <br/> 3. <span style="color:darkgray">Ahmad Zareei, **Bolei Deng**, Katia Bertoldi</span> (2019). [**Harnessing transition waves to realize deployable structures**](../../publication/zareei-2020/). *Proceedings of the National Academy of Sciences*. <br/> 4. <span style="color:darkgray">Lishuai Jin, Antonio Elia Forte, **Bolei Deng**, Ahmad Rafsanjani, Katia Bertoldi</span> (2020). [**Kirigami‐Inspired Inflatables with Programmable Shapes**](../../publication/jin-2020/). *Advanced Materials*. 
+summary: Some texts
 
 # Link this post with a project
 projects: []
