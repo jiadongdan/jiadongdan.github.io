@@ -16,3 +16,8 @@ a {
 .btn {
   @include link-styles;
 }
+
+// Apply the same styles to elements with class .btn-outline-primary
+.btn-outline-primary {
+  @include link-styles;
+}
