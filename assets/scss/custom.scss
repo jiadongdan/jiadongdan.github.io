@@ -5,6 +5,10 @@
   &:hover {
     color: darken(#8C1515, 10%); // Darken on hover
   }
+
+  &:visited {
+    color: #8C1515; // Dark red color
+  }
 }
 
 // Apply mixin to all <a> tags
@@ -19,5 +23,10 @@ a {
 
 // Apply the same styles to elements with class .btn-outline-primary
 .btn-outline-primary {
+  @include link-styles;
+}
+
+// Apply the same styles to elements with class .btn-page-header
+.btn-page-header {
   @include link-styles;
 }
