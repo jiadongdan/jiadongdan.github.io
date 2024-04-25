@@ -1,13 +1,13 @@
 ---
-title: Contact
+title: Awards and Honors
 type: landing
-date: 2022-10-25
+date: 2023-04-25
 
 sections:
   - block: markdown
     content:
       title: Awards and Honors
-      subtitle: this is some subtitle
+      subtitle:
       text: |-
         <span style="color:darkgray">[2024]</span> Kavli IPMU Travel Award (AI-driven discovery in physics and astrophysics) <br/>
         <span style="color:darkgray">[2023]</span> IFSM Young Scientist Award (IMC20) <br/>
@@ -19,7 +19,7 @@ sections:
   - block: markdown
     content:
       title: Academic Service
-      subtitle: this is some subtitle
+      subtitle:
       text: |-
         * [Post-doc subcommittee member](https://microscopy.org/postdoc-officers) at [Microscopy Society of America](https://microscopy.org/) since 2024
         * Reviwer for [Microscopy and Microanalysis](https://academic.oup.com/mam)
