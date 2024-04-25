@@ -39,9 +39,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/jiadongdan
-- icon: x-twitter
-  icon_pack: fab
-  link: https://twitter.com/jiadong_dan
+#- icon: x-twitter
+#  icon_pack: fab
+#  link: https://twitter.com/jiadong_dan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
