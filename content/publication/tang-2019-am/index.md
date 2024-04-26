@@ -11,7 +11,7 @@ authors:
 - Jiefu Yang
 - Kun Zhou
 - Xiaoxu Zhao
-- Stephen J Pennycook
+- Stephen J. Pennycook
 - Zheng Liu
 date: '2019-06-01'
 publishDate: '2024-04-24T14:45:57.266869Z'

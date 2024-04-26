@@ -13,7 +13,7 @@ authors:
 - Thorsten Schultz
 - Norbert Koch
 - admin
-- Stephen J Pennycook
+- Stephen J. Pennycook
 - Dawen Zeng
 - Michel Bosman
 - Goki Eda

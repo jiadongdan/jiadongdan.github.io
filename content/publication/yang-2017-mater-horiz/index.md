@@ -4,7 +4,7 @@ title: 'Ultrathin nickel boron oxide nanosheets assembled vertically on graphene
 authors:
 - Min-Quan Yang
 - admin
-- Stephen J Pennycook
+- Stephen J. Pennycook
 - Xin Lu
 - Hai Zhu
 - Qing-Hua Xu

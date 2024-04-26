@@ -16,7 +16,7 @@ authors:
 - Wu Zhou
 - Kristian S Thygesen
 - Xin Luo
-- Stephen J Pennycook
+- Stephen J. Pennycook
 - Kian Ping Loh
 date: '2020-05-01'
 publishDate: '2024-04-24T14:45:57.227923Z'

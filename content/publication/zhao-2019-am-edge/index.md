@@ -9,7 +9,7 @@ authors:
 - Yu Xie
 - Paul R C Kent
 - Wu Zhou
-- Stephen J Pennycook
+- Stephen J. Pennycook
 - Kian Ping Loh
 date: '2019-04-01'
 publishDate: '2024-04-24T14:45:57.279573Z'

@@ -16,7 +16,7 @@ authors:
 - Yonghua Du
 - T Venkatesan
 - Sokrates T Pantelides
-- Stephen J Pennycook
+- Stephen J. Pennycook
 - Wu Zhou
 - Kian Ping Loh
 date: '2018-01-01'

@@ -15,7 +15,7 @@ authors:
 - Zhi Chen
 - Zejun Li
 - Jiong Lu
-- Stephen J Pennycook
+- Stephen J. Pennycook
 - Yuan Ping Feng
 - Jun Ding
 - Kian Ping Loh

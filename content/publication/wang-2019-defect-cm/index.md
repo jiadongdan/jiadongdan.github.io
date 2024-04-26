@@ -9,7 +9,7 @@ authors:
 - Ziyu Qin
 - Shisheng Li
 - Junpeng Lu
-- Stephen J Pennycook
+- Stephen J. Pennycook
 - Wanxin Sun
 - Chorng Haur Sow
 date: '2019-10-01'

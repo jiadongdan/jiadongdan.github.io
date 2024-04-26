@@ -7,7 +7,7 @@ authors:
 - admin
 - Sock Mui Poh
 - Wei Fu
-- Stephen J Pennycook
+- Stephen J. Pennycook
 - Wu Zhou
 - Kian Ping Loh
 date: '2018-02-01'

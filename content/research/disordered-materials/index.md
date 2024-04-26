@@ -4,7 +4,7 @@ title: Machine learning for disordered materials
 weight: 20
 
 # Summary for listings and search engines
-summary: <br/> **Selected publications:**<br/> 1. <span style="color:darkgray">**Jiadong Dan**, Moaz Waqar, Ivan Erofeev, Kui Yao, John Wang, Stephen J Pennycook, N Duane Loh</span> (2023). [**A multiscale generative model to understand disorder in domain boundaries.**](../../publication/dan-2023-generative-model/). ***Science Advances***. <br/> 2. <span style="color:darkgray">**Jiadong Dan**, Moaz Waqar, Stephen J Pennycook, N Duane Loh</span> (2023). [**Exploring the emergence of complex grain boundary structures via hybrid probabilistic generative model**](../../publication/dan-2023-domain-boundary-mm/). ***Microscopy and Microanalysis***. <br/>
+summary: <br/> **Selected publications:**<br/> 1. <span style="color:darkgray">**Jiadong Dan**, Moaz Waqar, Ivan Erofeev, Kui Yao, John Wang, Stephen J. Pennycook, N Duane Loh</span> (2023). [**A multiscale generative model to understand disorder in domain boundaries.**](../../publication/dan-2023-generative-model/). ***Science Advances***. <br/> 2. <span style="color:darkgray">**Jiadong Dan**, Moaz Waqar, Stephen J. Pennycook, N Duane Loh</span> (2023). [**Exploring the emergence of complex grain boundary structures via hybrid probabilistic generative model**](../../publication/dan-2023-domain-boundary-mm/). ***Microscopy and Microanalysis***. <br/>
 
 # Link this post with a project
 projects: []
@@ -43,5 +43,5 @@ categories:
 
 
 ### Selected publications:
-1. <span style="color:darkgray">**Jiadong Dan**, Moaz Waqar, Ivan Erofeev, Kui Yao, John Wang, Stephen J Pennycook, N Duane Loh</span> (2023). [**A multiscale generative model to understand disorder in domain boundaries.**](../../publication/dan-2023-generative-model/). ***Science Advances***. <br/>
-2. <span style="color:darkgray">**Jiadong Dan**, Moaz Waqar, Stephen J Pennycook, N Duane Loh</span> (2023). [**Exploring the emergence of complex grain boundary structures via hybrid probabilistic generative model**](../../publication/dan-2023-domain-boundary-mm/). ***Microscopy and Microanalysis***. <br/>
+1. <span style="color:darkgray">**Jiadong Dan**, Moaz Waqar, Ivan Erofeev, Kui Yao, John Wang, Stephen J. Pennycook, N Duane Loh</span> (2023). [**A multiscale generative model to understand disorder in domain boundaries.**](../../publication/dan-2023-generative-model/). ***Science Advances***. <br/>
+2. <span style="color:darkgray">**Jiadong Dan**, Moaz Waqar, Stephen J. Pennycook, N Duane Loh</span> (2023). [**Exploring the emergence of complex grain boundary structures via hybrid probabilistic generative model**](../../publication/dan-2023-domain-boundary-mm/). ***Microscopy and Microanalysis***. <br/>

@@ -7,7 +7,7 @@ authors:
 - Wei Fu
 - admin
 - Yuanyue Liu
-- Stephen J Pennycook
+- Stephen J. Pennycook
 - Wu Zhou
 - Kian Ping Loh
 date: '2019-04-01'

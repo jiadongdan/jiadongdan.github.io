@@ -15,7 +15,7 @@ authors:
 - Xiaoyue He
 - Yu Li Huang
 - Xinyun Wang
-- Stephen J Pennycook
+- Stephen J. Pennycook
 - Goki Eda
 - Andrew T S Wee
 date: '2019-08-01'

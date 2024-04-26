@@ -1,13 +1,13 @@
 ---
 title: 'Navigating the nanoworld: automatic feature recognition'
 authors:
-- Stephen J Pennycook
+- Stephen J. Pennycook
 - admin
 - Xiaoxu Zhao
 - Shoucong Ning
 - Wu Zhou
 - Qian He
-- N Duane Loh
+- N. Duane Loh
 date: '2022-08-01'
 publishDate: '2024-04-24T14:21:16.452960Z'
 publication_types:

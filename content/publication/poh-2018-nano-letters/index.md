@@ -11,8 +11,8 @@ authors:
 - admin
 - Jingsheng Chen
 - Zhengtang Luo
-- Stephen J Pennycook
-- Antonio H Castro Neto
+- Stephen J. Pennycook
+- Antonio H. Castro Neto
 - Kian Ping Loh
 date: '2018-10-01'
 publishDate: '2024-04-24T14:45:57.292547Z'
