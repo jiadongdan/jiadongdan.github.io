@@ -10,7 +10,7 @@ authors:
 - Shoucong Ning
 - Wu Zhou
 - Su Ying Quek
-- Stephen John Pennycook
+- Stephen J. Pennycook
 - Kian Ping Loh
 date: '2021-04-01'
 publishDate: '2024-04-24T14:45:57.221413Z'

@@ -18,7 +18,7 @@ authors:
 - Zheng Liu
 - Bo Peng
 - Longjiang Deng
-- Stephen John Pennycook
+- Stephen J. Pennycook
 - Su Ying Quek
 - Kian Ping Loh
 date: '2022-01-01'
