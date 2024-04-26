@@ -46,7 +46,6 @@ header:
 # Site footer
 
 footer:
-  block: minimal
   copyright:
     notice: '© {year} Jiadong Dan. Published with Hugo.🤖'
     license:
