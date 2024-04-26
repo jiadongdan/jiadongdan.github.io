@@ -1,5 +1,5 @@
 ---
-title: Effects of precursor pre-treatment on the vapor deposition of WS2 monolayers
+title: Effects of precursor pre-treatment on the vapor deposition of WS<sub>2</sub> monolayers
 authors:
 - Mei Er Pam
 - Yumeng Shi
