@@ -1,5 +1,5 @@
 ---
-title: Improving photoelectrochemical activity of ZnO/TiO2 core--shell nanostructure
+title: Improving photoelectrochemical activity of ZnO/TiO$_2$ core--shell nanostructure
   through Ag nanoparticle integration
 authors:
 - Zeli Wang
