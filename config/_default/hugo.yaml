@@ -46,8 +46,9 @@ taxonomies:
   author: authors
 markup:
   goldmark:
-      renderer:
-        unsafe: true
+    renderer:
+      unsafe: true
+      xHTML: true
   _merge: deep
 related:
   threshold: 80

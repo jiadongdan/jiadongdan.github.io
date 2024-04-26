@@ -1,6 +1,5 @@
 ---
-#title: Effects of precursor pre-treatment on the vapor deposition of WS<span>2</span> monolayers
-title: <span style="color:darkgray">**Jiadong Dan**, Moaz Waqar, Ivan Erofeev, Kui Yao, John Wang, Stephen J. Pennycook, N. Duane Loh</span>
+title: Effects of precursor pre-treatment on the vapor deposition of WS2 monolayers
 authors:
 - Mei Er Pam
 - Yumeng Shi
