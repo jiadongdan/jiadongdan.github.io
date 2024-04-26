@@ -1,5 +1,5 @@
 ---
-title: Defect heterogeneity in monolayer WS2 unveiled by work function variance
+title: Defect heterogeneity in monolayer WS$_2$ unveiled by work function variance
 authors:
 - Xinyun Wang
 - admin
