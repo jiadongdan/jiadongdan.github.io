@@ -4,8 +4,8 @@ authors:
 - admin
 - Xiaoxu Zhao
 - Qian He
-- N Duane Loh
-- Stephen J Pennycook
+- N. Duane Loh
+- Stephen J. Pennycook
 author_notes:
 - "Corresponding Author"
 date: '2022-08-01'

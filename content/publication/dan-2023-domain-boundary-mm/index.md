@@ -4,8 +4,8 @@ title: Exploring the emergence of complex grain boundary structures via hybrid p
 authors:
 - admin
 - Moaz Waqar
-- Stephen J Pennycook
-- N Duane Loh
+- Stephen J. Pennycook
+- N. Duane Loh
 author_notes:
 - "Corresponding Author"
 date: '2023-07-01'

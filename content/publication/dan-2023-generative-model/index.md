@@ -6,8 +6,8 @@ authors:
 - Ivan Erofeev
 - Kui Yao
 - John Wang
-- Stephen J Pennycook
-- N Duane Loh
+- Stephen J. Pennycook
+- N. Duane Loh
 author_notes:
 - "Corresponding Author"
 - 
