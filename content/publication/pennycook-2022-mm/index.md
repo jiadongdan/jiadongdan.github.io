@@ -1,5 +1,5 @@
 ---
-title: 'Navigating the Nanoworld: Automatic Feature Recognition'
+title: 'Navigating the nanoworld: automatic feature recognition'
 authors:
 - Stephen J Pennycook
 - admin
