@@ -8,7 +8,7 @@ authors:
 - Kian Ping Loh
 - Qian He
 - N Duane Loh
-- Stephen J Pennycook
+- [Stephen J Pennycook]()
 date: '2022-04-01'
 publishDate: '2024-04-24T14:21:16.459190Z'
 publication_types:
