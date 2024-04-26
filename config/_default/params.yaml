@@ -42,11 +42,11 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-    show_theme_chooser: false
 
 # Site footer
 
 footer:
+  block: minimal
   copyright:
     notice: '© {year} Jiadong Dan. Published with Hugo.🤖'
     license:
