@@ -10,7 +10,6 @@ name = "Custom"
   menu_primary = "#000"
   menu_primary = "#000"  # black
   menu_text = "#fff"     # white
-  #menu_text_active = "#fdfbe4"
   menu_text_active = "#cee4cc"
 
   # Backgrounds
