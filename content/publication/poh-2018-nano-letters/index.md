@@ -1,6 +1,6 @@
 ---
 title: Molecular-beam epitaxy of two-dimensional In2Se3 and its giant electroresistance
-  Switching in Ferroresistive Memory Junction
+  switching in ferroresistive memory junction
 authors:
 - Sock Mui Poh
 - Sherman Jun Rong Tan
