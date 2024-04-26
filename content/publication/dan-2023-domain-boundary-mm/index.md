@@ -3,7 +3,7 @@ title: Exploring the emergence of complex grain boundary structures via hybrid p
   generative model
 authors:
 - admin
-- Moaz Waqar
+- Moaz Waqar\*
 - Stephen J. Pennycook
 - N. Duane Loh
 author_notes:
