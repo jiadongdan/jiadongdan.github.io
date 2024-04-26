@@ -1,5 +1,5 @@
 ---
-title: Chemically exfoliated VSe2 monolayers with room-temperature ferromagnetism
+title: Chemically exfoliated VSe$_2$ monolayers with room-temperature ferromagnetism
 authors:
 - Wei Yu
 - Jing Li
