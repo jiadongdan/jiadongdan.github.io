@@ -1,5 +1,5 @@
 ---
-title: Strain Modulation by van der Waals Coupling in Bilayer Transition Metal Dichalcogenide
+title: Strain modulation by van der Waals coupling in bilayer transition metal dichalcogenide
 authors:
 - Xiaoxu Zhao
 - Zijing Ding

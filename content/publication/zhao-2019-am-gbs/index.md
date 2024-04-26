@@ -1,5 +1,5 @@
 ---
-title: Healing of Planar Defects in 2D Materials via Grain Boundary Sliding
+title: Healing of planar defects in 2D materials via grain boundary sliding
 authors:
 - Xiaoxu Zhao
 - Yujin Ji

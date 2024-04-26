@@ -1,5 +1,5 @@
 ---
-title: Molecular Beam Epitaxy of Highly Crystalline MoSe2 on Hexagonal Boron Nitride
+title: Molecular beam epitaxy of highly crystalline MoSe2 on hexagonal boron nitride
 authors:
 - Sock Mui Poh
 - Xiaoxu Zhao

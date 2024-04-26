@@ -1,5 +1,5 @@
 ---
-title: Molecular-Beam Epitaxy of Two-Dimensional In2Se3 and Its Giant Electroresistance
+title: Molecular-beam epitaxy of two-dimensional In2Se3 and its giant electroresistance
   Switching in Ferroresistive Memory Junction
 authors:
 - Sock Mui Poh

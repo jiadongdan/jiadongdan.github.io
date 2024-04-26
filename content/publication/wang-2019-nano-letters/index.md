@@ -1,5 +1,5 @@
 ---
-title: High-Energy Gain Upconversion in Monolayer Tungsten Disulfide Photodetectors
+title: High-energy gain upconversion in monolayer tungsten disulfide photodetectors
 authors:
 - Qixing Wang
 - Qi Zhang

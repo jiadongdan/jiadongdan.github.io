@@ -1,5 +1,5 @@
 ---
-title: Atom-by-Atom Fabrication of Monolayer Molybdenum Membranes
+title: Atom-by-atom fabrication of monolayer molybdenum membranes
 authors:
 - Xiaoxu Zhao
 - admin

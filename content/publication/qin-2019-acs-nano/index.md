@@ -1,5 +1,5 @@
 ---
-title: Growth of Nb-Doped Monolayer WS2 by Liquid-Phase Precursor Mixing
+title: Growth of Nb-doped monolayer WS2 by liquid-phase precursor mixing
 authors:
 - Ziyu Qin
 - Leyi Loh

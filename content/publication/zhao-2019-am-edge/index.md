@@ -1,5 +1,5 @@
 ---
-title: Edge Segregated Polymorphism in 2D Molybdenum Carbide
+title: Edge eegregated polymorphism in 2D molybdenum carbide
 authors:
 - Xiaoxu Zhao
 - Weiwei Sun

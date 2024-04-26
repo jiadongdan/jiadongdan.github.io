@@ -1,6 +1,6 @@
 ---
-title: Phase-Controlled Synthesis of Monolayer Ternary Telluride with a Random Local
-  Displacement of Tellurium Atoms
+title: Phase-controlled synthesis of monolayer ternary telluride with a random local
+  displacement of tellurium atoms
 authors:
 - Bijun Tang
 - Jiadong Zhou

@@ -1,6 +1,6 @@
 ---
-title: Unveiling Atomic-Scale Moiré Features and Atomic Reconstructions in High-Angle
-  Commensurately Twisted Transition Metal Dichalcogenide Homobilayers
+title: Unveiling atomic-scale moiré features and atomic reconstructions in high-angle
+  commensurately twisted transition metal dichalcogenide homobilayers
 authors:
 - Xiaoxu Zhao
 - Jingsi Qiao

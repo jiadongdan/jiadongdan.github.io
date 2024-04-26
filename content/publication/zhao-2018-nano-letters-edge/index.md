@@ -1,5 +1,5 @@
 ---
-title: Mo-Terminated Edge Reconstructions in Nanoporous Molybdenum Disulfide Film
+title: Mo-terminated edge reconstructions in nanoporous molybdenum disulfide film
 authors:
 - Xiaoxu Zhao
 - Deyi Fu
