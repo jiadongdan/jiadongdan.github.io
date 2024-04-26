@@ -21,8 +21,8 @@ sections:
       title: Academic Service
       subtitle:
       text: |-
-        * [Post-doc subcommittee member](https://microscopy.org/postdoc-officers) at [Microscopy Society of America](https://microscopy.org/) since 2024
-        * Reviwer for [Microscopy and Microanalysis](https://academic.oup.com/mam)
+        <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>[Post-doc subcommittee member](https://microscopy.org/postdoc-officers) at [Microscopy Society of America](https://microscopy.org/) since 2024
+        <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>Reviwer for [Microscopy and Microanalysis](https://academic.oup.com/mam)
     design:
       columns: '1'
 ---
