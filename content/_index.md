@@ -48,6 +48,10 @@ sections:
         
         <!--### An Intelligent Electron Microscope Copilot-->
 
+        <!--### Approach and Significance-->
+        
+        <!--### A Road Map to-->
+
     design:
       columns: '1'
 ---
