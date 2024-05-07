@@ -22,7 +22,7 @@ sections:
       subtitle:
       text: |-
         <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>[Post-doc subcommittee member](https://microscopy.org/postdoc-officers) at [Microscopy Society of America](https://microscopy.org/) since 2024 <br/>
-        <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>Reviwer for [Microscopy and Microanalysis](https://academic.oup.com/mam) <br/>
+        <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>Reviewer for [Microscopy and Microanalysis](https://academic.oup.com/mam) <br/>
     design:
       columns: '1'
 ---
