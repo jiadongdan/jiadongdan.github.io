@@ -4,7 +4,7 @@ title: stemplot
 weight: 20
 
 # Summary for listings and search engines
-summary: This is some text for the software
+summary: Plot and visualization code for scientific publication.
 
 # Link this post with a project
 projects: []
