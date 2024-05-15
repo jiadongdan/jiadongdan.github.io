@@ -4,7 +4,7 @@ title: motif-learn
 weight: 20
 
 # Summary for listings and search engines
-summary: This is some text for the software
+summary: Machine learning code for scanning transmission electron microscopy. [Code](https://github.com/jiadongdan/motif-learn)
 
 # Link this post with a project
 projects: []
@@ -39,7 +39,7 @@ tags:
 - Zernike moments
 
 categories:
-- 
+- features
 ---
 
 this is some text inside the page
