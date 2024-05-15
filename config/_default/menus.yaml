@@ -22,9 +22,9 @@ main:
   - name: Softwares
     url: '/softwares'
     weight: 40
-  - name: Posts
-    url: '/post'
-    weight: 100
+  #- name: Posts
+  #  url: '/post'
+  #  weight: 100
   #- name: Contact
   #  url: '/contact'
   #  weight: 60

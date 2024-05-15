@@ -27,20 +27,19 @@ image:
   caption: 'Image credit: [**Jiadong Dan**]()'
   focal_point: ""
   placement: 1
-  preview_only: true
+  preview_only: false
 
 # authors:
 # - admin
 
 tags:
-- Academic
-
-categories:
 - motif
 - feature engineering
 - Zernike polynomials
 - Zernike moments
+
+categories:
+- 
 ---
 
-### Selected publications:
 this is some text inside the page
