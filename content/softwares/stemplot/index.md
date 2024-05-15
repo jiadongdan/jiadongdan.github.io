@@ -4,7 +4,7 @@ title: stemplot
 weight: 20
 
 # Summary for listings and search engines
-summary: Plot and visualization code for scientific publication.
+summary: Plot and visualization code for scientific publication. <i class="fa-brands fa-github"></i> [[GitHub]](https://github.com/jiadongdan/motif-learn)
 
 # Link this post with a project
 projects: []
