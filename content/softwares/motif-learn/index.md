@@ -4,7 +4,7 @@ title: motif-learn
 weight: 10
 
 # Summary for listings and search engines
-summary: Machine learning code for scanning transmission electron microscopy. <i class="fas fa-atom"></i> [GitHub](https://github.com/jiadongdan/motif-learn)
+summary: Machine learning code for scanning transmission electron microscopy. <i class="fa-brands fa-github"></i> [GitHub](https://github.com/jiadongdan/motif-learn)
 
 # Link this post with a project
 projects: []
