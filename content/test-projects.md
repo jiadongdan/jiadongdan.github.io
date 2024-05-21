@@ -4,7 +4,7 @@ type: landing
 
 sections:
   - block: portfolio
-    id: projects
+    id: test
     content:
       title: Projects
       subtitle: My subtitle
@@ -19,7 +19,7 @@ sections:
         exclude_tags: []
         # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
         kinds:
-          - page
+          - section
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
