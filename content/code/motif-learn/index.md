@@ -1,6 +1,6 @@
 ---
 title: motif-learn
-summary: 🔬motif-learn: machine learning in scanning transmission electron microscopy.
+summary: 🔬machine learning in scanning transmission electron microscopy.
 tags:
   - ML
 date: 2024-05-21
