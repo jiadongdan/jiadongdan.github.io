@@ -35,16 +35,16 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: ML
+          tag: ML
         - name: Other
           tag: Demo
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       # Choose a listing view
-      view: card
+      view: masonry
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 ---
