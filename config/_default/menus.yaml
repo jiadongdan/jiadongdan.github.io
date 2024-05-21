@@ -16,12 +16,15 @@ main:
   - name: Publications
     url: '/publication'
     weight: 30
-  - name: Awards & Services
-    url: '/awards-services'
-    weight: 60
   - name: Softwares
     url: '/softwares'
     weight: 40
+  - name: test
+    url: '/test'
+    weight: 50
+  - name: Awards & Services
+    url: '/awards-services'
+    weight: 60
   #- name: Posts
   #  url: '/post'
   #  weight: 100
