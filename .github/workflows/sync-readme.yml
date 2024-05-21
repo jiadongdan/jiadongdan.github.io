@@ -8,6 +8,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -18,13 +21,11 @@ jobs:
         with:
           repository: jiadongdan/motif-learn
           path: motif-learn
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Checkout jiadongdan.github.io
         uses: actions/checkout@v2
         with:
           path: jiadongdan.github.io
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Copy README.md to index.md
         run: |
@@ -37,5 +38,6 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add content/softwares/motif-learn/index.md
           git commit -m "Sync README.md from motif-learn"
-          git push origin main
-          
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
