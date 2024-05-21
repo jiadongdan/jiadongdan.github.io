@@ -37,8 +37,10 @@ sections:
           tag: '*'
         - name: ML
           tag: ML
-        - name: Other
-          tag: Demo
+        - name: plot
+          tag: plot
+        - name: features
+          tag: features
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
