@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Codes
 type: landing
 
 sections:
