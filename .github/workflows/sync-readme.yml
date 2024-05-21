@@ -27,16 +27,16 @@ jobs:
         with:
           path: jiadongdan.github.io
 
-      - name: Copy README.md to _index.md
+      - name: Copy README.md to index.md
         run: |
-          cp motif-learn/README.md jiadongdan.github.io/content/softwares/motif-learn/_index.md
+          cp motif-learn/README.md jiadongdan.github.io/content/softwares/motif-learn/index.md
 
       - name: Commit changes
         run: |
           cd jiadongdan.github.io
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add content/softwares/motif-learn/_index.md
+          git add content/softwares/motif-learn/index.md
           git commit -m "Sync README.md from motif-learn"
           git push
         env:
