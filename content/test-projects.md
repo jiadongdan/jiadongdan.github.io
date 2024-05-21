@@ -12,14 +12,14 @@ sections:
       filters:
         # Folders to display content from
         folders:
-          - test
+          - test-projects
         # Only show content with these tags
         tags: []
         # Exclude content with these tags
         exclude_tags: []
         # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
         kinds:
-          - section
+          - page
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
