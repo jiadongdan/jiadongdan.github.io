@@ -27,9 +27,16 @@ jobs:
         with:
           path: jiadongdan.github.io
 
+      - name: Verify directory contents before copying
+        run: ls -la jiadongdan.github.io/content/softwares/motif-learn
+
       - name: Copy README.md to index.md
         run: |
+          rm -f jiadongdan.github.io/content/softwares/motif-learn/index.md
           cp motif-learn/README.md jiadongdan.github.io/content/softwares/motif-learn/index.md
+
+      - name: Verify directory contents after copying
+        run: ls -la jiadongdan.github.io/content/softwares/motif-learn
 
       - name: Commit changes
         run: |
@@ -37,7 +44,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add content/softwares/motif-learn/index.md
-          git commit -m "Sync README.md from motif-learn"
+          git commit -m "Sync README.md from motif-learn" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
