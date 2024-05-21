@@ -55,7 +55,6 @@ sections:
     design:
       columns: '1'
 
-  sections:
   - block: portfolio
     id: projects
     content:
