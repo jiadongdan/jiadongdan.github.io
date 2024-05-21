@@ -17,14 +17,14 @@ sections:
       items:
         - title: Pandas
           description: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-          image: panda.png
+          image: 
           url: https://github.com/pandas-dev/pandas
         - title: scikit-learn
           description: scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
-          image: robot.png
+          image: 
           url: https://github.com/scikit-learn/scikit-learn
         - title: PyTorch
           description: PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
-          image: nlp.png
+          image: 
           url: https://github.com/pytorch/pytorch
 ---
