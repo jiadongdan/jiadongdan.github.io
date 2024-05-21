@@ -13,8 +13,8 @@ content:
     folders:
       - test
     # Uncomment below to only show content with specific tags:
-#    tags:
-#      - Machine Learning
+    tags:
+      - Machine Learning
     # Uncomment below to exclude content with specific tags:
 #    exclude_tags:
 #      - preface    
