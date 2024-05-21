@@ -4,7 +4,7 @@ type: landing
 
 sections:
   - block: portfolio
-    id: test
+    #id: projects
     content:
       title: Projects
       subtitle: My subtitle
@@ -12,7 +12,7 @@ sections:
       filters:
         # Folders to display content from
         folders:
-          - test-projects
+          - test
         # Only show content with these tags
         tags: []
         # Exclude content with these tags
