@@ -12,7 +12,7 @@ sections:
       filters:
         # Folders to display content from
         folders:
-          - test
+          - test1
         # Only show content with these tags
         tags: []
         # Exclude content with these tags
