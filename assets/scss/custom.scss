@@ -29,7 +29,8 @@ a {
 
 // 
 .btn.btn-primary.btn-lg {
-  color: #ffffff 
+  color: #ffffff;  // change the text color to white for buttons in Code page
+  background-color: #007AFF; // change the background color to dark blue for buttons in Code page
 }
 
 // Do not display the share box
@@ -46,6 +47,7 @@ a.summary-link {
   font-family: roboto;
 }
 
+// Change the font of the headings
 h1, h2, h3, h4, h5, h6 {
   font-family: roboto;
 }
