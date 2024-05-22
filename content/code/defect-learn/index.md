@@ -1,6 +1,6 @@
 ---
 title: defect-learn
-summary: ⚛️Deep learning point defects in two-dimensional materials. [🔒private]
+summary: ⚛️Deep learning point defects in two-dimensional materials. 🔒[private]
 tags:
   - ML
   - features
