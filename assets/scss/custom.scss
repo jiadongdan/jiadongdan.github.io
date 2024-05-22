@@ -33,15 +33,11 @@ a {
   background-color: #007AFF; // change the background color to dark blue for buttons in Code page
 }
 
-.btn.btn-primary.btn-lg:focus,
-.btn.btn-primary.btn-lg:active {
-  box-shadow: 0 0 0 .2rem #1241F5;
-  background-color: #1241F5; /* change the background color to a different dark blue */
-}
-
-.btn-toolbar .btn.btn-primary {
-  background-color: #1241F5; // change the background color to dark blue for buttons in Code page
-}
+//
+//.btn-toolbar .btn.btn-primary:focus,
+//.btn-toolbar .btn.btn-primary:active {
+//  background-color: #1241F5; // change the background color to dark blue for buttons in Code page
+//}
 
 // Do not display the share box
 .share-box {
