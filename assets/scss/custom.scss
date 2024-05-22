@@ -31,14 +31,14 @@ a {
 .btn.btn-primary.btn-lg {
   color: #ffffff;  // change the text color to white for buttons in Code page
   background-color: #007AFF; // change the background color to dark blue for buttons in Code page
+
+  &:hover {
+    background-color: #1241F5 !important;
+  }
 }
 
 
-.btn-primary:not(:disabled):not(.disabled).active:focus, 
-.btn-primary:not(:disabled):not(.disabled):active:focus, 
-.show>.btn-primary.dropdown-toggle:focus {
-  background-color: #5C87FF !important;
-}
+
 
 // 
 .btn-toolbar .btn.btn-primary:active, 
