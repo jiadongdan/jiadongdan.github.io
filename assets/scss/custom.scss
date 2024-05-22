@@ -33,12 +33,10 @@ a {
   background-color: #007AFF; // change the background color to dark blue for buttons in Code page
 }
 
-.btn.btn-primary.btn-lg.active {
-  color: #ffffff;  // change the text color to white for buttons in Code page
-  background-color: #1241F5; // change the background color to dark blue for buttons in Code page
+.btn.btn-primary.btn-lg:focus,
+.btn.btn-primary.btn-lg:active {
+  background-color: #1241F5; /* change the background color to a different dark blue */
 }
-
-
 
 // Do not display the share box
 .share-box {
