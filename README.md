@@ -34,8 +34,7 @@ I am an Eric and Wendy Schmidt AI in Science Fellow at the National University o
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://jaykhatri.com"><img src="https://avatars.githubusercontent.com/u/20292680?v=4?s=100" width="100px;" alt="Jay Khatri"/><br /><sub><b>Jay Khatri</b></sub></a><br /><a href="https://github.com/highlight/highlight/commits?author=jay-khatri" title="Code">💻</a> <a href="https://github.com/highlight/highlight/commits?author=jay-khatri" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://vadweb.us"><img src="https://avatars.githubusercontent.com/u/1351531?v=4?s=100" width="100px;" alt="Vadim Korolik"/><br /><sub><b>Vadim Korolik</b></sub></a><br /><a href="https://github.com/highlight/highlight/commits?author=Vadman97" title="Code">💻</a> <a href="https://github.com/highlight/highlight/commits?author=Vadman97" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jiadongdan/motif-learn"><img src="https://github.com/jiadongdan/motif-learn/blob/main/notebooks/motif-learn-logo-vertical.png?raw=true" width="100px;" alt="motif-learn"/><br /><sub><b>motif-learn</b></sub></a><br /><a href="" title="Code">💻</a> <a href="" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
