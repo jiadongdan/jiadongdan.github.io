@@ -34,7 +34,7 @@ I am an Eric and Wendy Schmidt AI in Science Fellow at the National University o
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jiadongdan/motif-learn"><img src="https://github.com/jiadongdan/motif-learn/blob/main/logo/logo_v.png?raw=true" width="100px;" alt="motif-learn"/><br /><sub><b>motif-learn</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jiadongdan/motif-learn"><img src="https://github.com/jiadongdan/motif-learn/blob/main/logo/logo_v.png?raw=true" width="100px;" alt="motif-learn"/><br /><sub><b></b></sub></a><br /></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jiadongdan/stemplot"><img src="https://github.com/jiadongdan/stemplot/blob/main/images/logo_v.png?raw=true" width="100px;" alt="motif-learn"/><br /><sub><b></b></sub></a><br /></td>
     </tr>
   </tbody>
