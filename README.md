@@ -26,7 +26,7 @@ I am an Eric and Wendy Schmidt AI in Science Fellow at the National University o
 └── README.md
 ```
 
-## Contributors
+## Projects
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -35,6 +35,7 @@ I am an Eric and Wendy Schmidt AI in Science Fellow at the National University o
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jiadongdan/motif-learn"><img src="https://github.com/jiadongdan/motif-learn/blob/main/notebooks/motif-learn-logo-vertical.png?raw=true" width="100px;" alt="motif-learn"/><br /><sub><b>motif-learn</b></sub></a><br /></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jiadongdan/stemplot"><img src="https://github.com/jiadongdan/stemplot/blob/main/images/logo_v.png?raw=true" width="100px;" alt="motif-learn"/><br /><sub><b>stemplot</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
