@@ -6,7 +6,7 @@ Welcome to the repository for my personal website! This site is created using [H
 
 ## 📚 About Me
 
-I am an Eric and Wendy Schmidt AI in Science Fellow at the National University of Singapore (NUS), specializing in the intersection of machine learning (ML) and scanning transmission electron microscopy (STEM).
+I am an Eric and Wendy Schmidt AI in Science Fellow at the National University of Singapore (NUS), specializing in the intersection of *machine learning* (ML) and *scanning transmission electron microscopy* (STEM).
 
 ## Projects
 
@@ -23,6 +23,7 @@ I am an Eric and Wendy Schmidt AI in Science Fellow at the National University o
   </tbody>
 </table>
 
+<!-- from here: https://github.com/highlight/highlight/blob/main/README.md>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- ALL-PROJECTS-LIST:END -->
