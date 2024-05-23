@@ -1,4 +1,4 @@
-# Jiadong Dan's Personal Website
+![cover](README_cover.png)
 
 Welcome to the repository for my personal website! This site is created using [Hugo](https://gohugo.io/) and hosted on GitHub Pages.
 
@@ -6,7 +6,7 @@ Welcome to the repository for my personal website! This site is created using [H
 
 ## 📚 About Me
 
-I am an Eric and Wendy Schmidt AI in Science Fellow at the Center for Bioimaging Sciences (CBIS) of the National University of Singapore (NUS). My research focuses on using machine learning to efficiently identify quantum defects in atomic resolution scanning transmission electron microscopy (STEM) images. I have received several prestigious awards, including the Microscopy Society of America’s Postdoctoral Scholar Award in 2022 and the International Federation of Societies for Microscopy (IFSM) Young Scientist Award in 2023.
+I am an Eric and Wendy Schmidt AI in Science Fellow at the National University of Singapore (NUS), specializing in the intersection of machine learning (ML) and scanning transmission electron microscopy (STEM).
 
 ## 🚀 Technologies Used
 
