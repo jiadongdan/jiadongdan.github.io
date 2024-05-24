@@ -18,7 +18,7 @@ banner:
 
 <style>
   .icon-container {
-    font-size: 1em;
+    font-size: 1.05em;
   }
   .icon-container a {
     color: #808080;
