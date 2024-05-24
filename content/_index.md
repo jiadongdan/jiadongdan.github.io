@@ -62,7 +62,7 @@ sections:
       text: |-
         <div class="row">
           <div class="col-sm-3">
-              <img style="width: 170px; border-radius: 170px;" src="" alt="Profile Picture">
+              <img style="width: 170px; border-radius: 170px;" src="/authors/admin/avatar.jpg" alt="Profile Picture">
           </div>
           <div class="col-sm-9">
               <h1 class="post-title">Jiadong Dan</h1>
