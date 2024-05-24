@@ -16,6 +16,16 @@ banner:
   image: ''
 ---
 
+<style>
+  .icon-container {
+    font-size: 24px;
+  }
+  .icon-container a {
+    text-decoration: none;
+    margin-right: 10px;
+  }
+</style>
+
 <div class="icon-container">
   | <a href="https://scholar.google.com/citations?user=U4t214wAAAAJ&hl=en" target="_blank">
     <i class="ai ai-google-scholar"></i> Google Scholar
@@ -25,5 +35,6 @@ banner:
   </a> |
   <a href="https://orcid.org/0000-0002-1825-0097" target="_blank">
     <i class="ai ai-orcid"></i> ORCID
-  </a> |
+  </a>
+  <br /> |
 </div>
