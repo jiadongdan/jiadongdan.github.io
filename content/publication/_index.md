@@ -25,6 +25,15 @@ banner:
     text-decoration: none;
     margin-right: 5px;
   }
+  .icon-container .ai-google-scholar {
+    color: #4081EC;
+  }
+  .icon-container .ai-researchgate {
+    color: #01C6B5;
+  }
+  .icon-container .ai-orcid {
+    color: #A1C837;
+  }
 </style>
 
 <div class="icon-container">
