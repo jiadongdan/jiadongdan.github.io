@@ -28,4 +28,6 @@ publication_types:
 publication: '***Nano Letters***'
 tags:
 - 2D materials
+
+doi: https://doi.org/10.1021/acs.nanolett.1c03622
 ---

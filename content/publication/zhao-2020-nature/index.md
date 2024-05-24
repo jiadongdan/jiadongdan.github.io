@@ -23,4 +23,9 @@ publishDate: '2024-04-24T14:45:57.227923Z'
 publication_types:
 - article-journal
 publication: '***Nature***'
+
+tags:
+- 2D materials
+
+doi: https://doi.org/10.1038/s41586-020-2241-9
 ---
