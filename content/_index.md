@@ -28,11 +28,11 @@ sections:
       subtitle:
       text: |-
         <div class="row" style="padding-top: 20px; padding-bottom: 30px;">
-          <div class="col-sm-4 d-flex justify-content-center align-items-center">
+         <div class="col-sm-4 d-flex justify-content-center align-items-center">
             <div class="profile-picture-container" style="width: 170px; height: 170px; border-radius: 50%; overflow: hidden;">
               <img style="width: 100%; height: 100%; object-fit: cover;" src="/authors/admin/avatar.jpg" alt="Profile Picture">
-            </div> <!--- end of profile-picture-container>
-          </div>   <!--- end of col-sm-4>
+            </div>
+         </div>
          <div class="col-sm-8 d-flex flex-column justify-content-center align-items-center align-items-sm-start text-center text-sm-left">
               <h1 class="portrait-title">Jiadong Dan</h1>
               <p class="desc"></p>
