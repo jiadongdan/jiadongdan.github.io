@@ -18,8 +18,7 @@ interests:
   - Generative models for electron microscopy data augmentation
   - AI for inverse problem -- electron ptychography
   - AI for data-sparse science -- 4D-STEM
-
-
+  
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include physics-informed machine learning and scanning transmission electron microscopy.
 
