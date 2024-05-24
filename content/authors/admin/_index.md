@@ -19,15 +19,7 @@ interests:
   - AI for inverse problem -- electron ptychography
   - AI for data-sparse science -- 4D-STEM
 
-education:
-  - area: PhD Integrative Sciences and Engineering
-    institution: National University of Singapore
-    date_start: 2015-08-01
-    date_end: 2020-01-01
-  - area: BEng Materials Science and Engineering
-    institution: Shandong University
-    date_start: 2011-09-01
-    date_end: 2015-06-31
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include physics-informed machine learning and scanning transmission electron microscopy.
 
