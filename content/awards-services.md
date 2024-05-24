@@ -18,7 +18,7 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: Academic Service
+      title: '<h1 style="text-align: left;">Academic Service</h1>'
       subtitle:
       text: |-
         <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>[Post-doc subcommittee member](https://microscopy.org/postdoc-officers) at [Microscopy Society of America](https://microscopy.org/) since 2024 <br/>
