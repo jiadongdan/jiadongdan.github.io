@@ -18,7 +18,7 @@ banner:
 
 <style>
   .icon-container {
-    font-size: 1.1em;
+    font-size: 1em;
   }
   .icon-container a {
     color: #808080;
@@ -29,7 +29,7 @@ banner:
     color: #4081EC;
   }
   .icon-container .ai-researchgate {
-    color: #01C6B5;
+    color: #039E99;
   }
   .icon-container .ai-orcid {
     color: #A1C837;
