@@ -71,6 +71,21 @@ sections:
                 National University of Singapore, Singapore<br>
                 Office: 14, Science Drive 4, CBIS, NUS
               </p>
+              <ul class="network-icon" aria-hidden="true">
+                <li>
+                  <a href="https://scholar.google.com/citations?user=U4t214wAAAAJ&amp;hl=en" target="_blank" rel="noopener" aria-label="google-scholar"><i class="ai ai-google-scholar big-icon"></i></a>
+                </li>
+                <li>
+                  <a href="https://github.com/jiadongdan" target="_blank" rel="noopener" aria-label="github"><i class="fab fa-github big-icon"></i></a>
+                </li>
+                <li>
+                  <a href="https://linkedin.com/in/jiadongdan" target="_blank" rel="noopener" aria-label="linkedin"><i class="fab fa-linkedin big-icon"></i></a>
+                </li>
+                <li>
+                  <a href="/uploads/resume.pdf" target="_blank" rel="noopener" aria-label="cv"><i class="ai ai-cv big-icon"></i></a>
+                </li>
+              </ul>
+              
               <div class="social">
                   <div class="contact-icons">
                       <a href="assets/pdf/cv.pdf">
