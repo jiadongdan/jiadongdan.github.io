@@ -30,6 +30,13 @@ education:
     institution: Shandong University
     date_start: 2011-09-01
     date_end: 2015-06-31
+    summary: |
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include physics-informed machine learning and scanning transmission electron microscopy.
