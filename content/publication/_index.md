@@ -18,9 +18,10 @@ banner:
 
 <style>
   .icon-container {
-    font-size: 24px;
+    font-size: 1.1em;
   }
   .icon-container a {
+    color: #808080;
     text-decoration: none;
     margin-right: 10px;
   }
@@ -35,6 +36,6 @@ banner:
   </a> |
   <a href="https://orcid.org/0000-0002-1825-0097" target="_blank">
     <i class="ai ai-orcid"></i> ORCID
-  </a>
-  <br /> |
+  </a> |
+  <br />
 </div>
