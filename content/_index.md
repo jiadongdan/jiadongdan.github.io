@@ -30,12 +30,14 @@ sections:
         <div class="row" style="padding-top: 20px; padding-bottom: 30px;">
           <div class="col-sm-4 d-flex justify-content-center align-items-center">
             <div class="profile-picture-container">
-                <img class="profile-picture" src="/authors/admin/avatar.jpg" alt="Profile Picture">
-                <span class="status-emoji">😊</span>
-                <div class="status-dot"></div>
-            </div>
-          </div>
-          <div class="col-sm-8 d-flex flex-column justify-content-center align-items-center align-items-sm-start text-center text-sm-left">
+                <div style="position: relative; width: 170px; height: 170px; border-radius: 50%; overflow: hidden;">
+                  <img style="width: 100%; height: 100%; object-fit: cover;" src="/authors/admin/avatar.jpg" alt="Profile Picture">
+                  <span style="position: absolute; bottom: 10px; right: 10px; font-size: 24px; background: white; border-radius: 50%; padding: 2px;">🌵</span>
+                  <div style="position: absolute; bottom: 5px; right: 5px; width: 12px; height: 12px; background-color: green; border-radius: 50%; border: 2px solid white;"></div>
+                </div>
+            </div>  <!--- end of profile-picture-container>
+         </div>
+         <div class="col-sm-8 d-flex flex-column justify-content-center align-items-center align-items-sm-start text-center text-sm-left">
               <h1 class="portrait-title">Jiadong Dan</h1>
               <p class="desc"></p>
               <p>Eric and Wendy Schmidt AI in Science Fellow<br>
@@ -70,37 +72,6 @@ sections:
           size: cover
           position: center
           parallax: false
-      css_style: '.profile-picture-container {
-                        position: relative;
-                        width: 170px;
-                        height: 170px;
-                        border-radius: 50%;
-                        overflow: hidden;
-                    }
-                    .profile-picture {
-                        width: 100%;
-                        height: 100%;
-                        object-fit: cover;
-                    }
-                    .status-emoji {
-                        position: absolute;
-                        bottom: 10px;
-                        right: 10px;
-                        font-size: 24px;
-                        background: white;
-                        border-radius: 50%;
-                        padding: 2px;
-                    }
-                    .status-dot {
-                        position: absolute;
-                        bottom: 5px;
-                        right: 5px;
-                        width: 12px;
-                        height: 12px;
-                        background-color: green; /* You can change the color based on the status */
-                        border-radius: 50%;
-                        border: 2px solid white;
-                    }'
 
   - block: markdown
     content:
