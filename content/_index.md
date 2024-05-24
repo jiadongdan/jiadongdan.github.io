@@ -55,3 +55,37 @@ sections:
     design:
       columns: '1'
 ---
+
+<div class="row">
+    <div class="col-sm-3">
+        <img style="width: 170px; border-radius: 170px;" src="" alt="Profile Picture">
+    </div>
+    <div class="col-sm-9">
+        <h1 class="post-title">Bolei Zhou</h1>
+        <p class="desc"></p>
+        <p>Assistant Professor<br>
+           Computer Science Department, University of California, Los Angeles<br>
+           Office: 295D, Engineering VI, UCLA
+        </p>
+        <div class="social">
+            <div class="contact-icons">
+                <a href="mailto:%62%6F%6C%65%69@%63%73.%75%63%6C%61.%65%64%75">
+                    <i class="fas fa-envelope" title="Email"></i>
+                </a>
+                <a href="assets/pdf/cv.pdf">
+                    <i class="ai ai-cv" title="CV"></i>
+                </a>
+                <a href="https://scholar.google.com/citations?user=9D4aG8AAAAAJ" target="_blank" title="Google Scholar">
+                    <i class="ai ai-google-scholar"></i>
+                </a>
+                <a href="https://github.com/zhoubolei" target="_blank" title="GitHub">
+                    <i class="fab fa-github"></i>
+                </a>
+                <a href="https://twitter.com/zhoubolei" target="_blank" title="Twitter">
+                    <i class="fab fa-twitter"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
