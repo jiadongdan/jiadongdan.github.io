@@ -74,16 +74,16 @@ sections:
               <div class="social">
                   <div class="contact-icons">
                       <a href="assets/pdf/cv.pdf">
-                          <i class="ai ai-cv fa-lg" title="CV"></i>
+                          <i class="ai ai-cv fa-2x" title="CV"></i>
                       </a>
                       <a href="https://scholar.google.com/citations?user=9D4aG8AAAAAJ" target="_blank" title="Google Scholar">
-                          <i class="ai ai-google-scholar fa-lg"></i>
+                          <i class="ai ai-google-scholar fa-2x"></i>
                       </a>
                       <a href="https://github.com/zhoubolei" target="_blank" title="GitHub">
-                          <i class="fab fa-github fa-lg"></i>
+                          <i class="fab fa-github fa-2x"></i>
                       </a>
                       <a href="https://twitter.com/zhoubolei" target="_blank" title="Twitter">
-                          <i class="fab fa-twitter fa-lg"></i>
+                          <i class="fab fa-twitter fa-2x"></i>
                       </a>
                    </div>
                </div>
