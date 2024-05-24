@@ -73,20 +73,17 @@ sections:
               </p>
               <div class="social">
                   <div class="contact-icons">
-                      <a href="mailto:%62%6F%6C%65%69@%63%73.%75%63%6C%61.%65%64%75">
-                          <i class="fas fa-envelope" title="Email"></i>
-                      </a>
                       <a href="assets/pdf/cv.pdf">
-                          <i class="ai ai-cv" title="CV"></i>
+                          <i class="ai ai-cv fa-lg" title="CV"></i>
                       </a>
                       <a href="https://scholar.google.com/citations?user=9D4aG8AAAAAJ" target="_blank" title="Google Scholar">
-                          <i class="ai ai-google-scholar"></i>
+                          <i class="ai ai-google-scholar fa-lg"></i>
                       </a>
                       <a href="https://github.com/zhoubolei" target="_blank" title="GitHub">
-                          <i class="fab fa-github"></i>
+                          <i class="fab fa-github fa-lg"></i>
                       </a>
                       <a href="https://twitter.com/zhoubolei" target="_blank" title="Twitter">
-                          <i class="fab fa-twitter"></i>
+                          <i class="fab fa-twitter fa-lg"></i>
                       </a>
                    </div>
                </div>
