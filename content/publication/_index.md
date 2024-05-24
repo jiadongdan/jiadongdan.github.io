@@ -34,8 +34,9 @@ banner:
   <a href="https://www.researchgate.net/profile/YourProfile" target="_blank">
     <i class="ai ai-researchgate"></i> ResearchGate
   </a> |
-  <a href="https://orcid.org/0000-0002-1825-0097" target="_blank">
+  <a href="https://orcid.org/0000-0002-0225-5563" target="_blank">
     <i class="ai ai-orcid"></i> ORCID
   </a> |
-  <br />
 </div>
+<br />
+<br />
