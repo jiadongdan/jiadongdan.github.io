@@ -17,4 +17,9 @@ publishDate: '2024-04-24T14:45:57.234494Z'
 publication_types:
 - article-journal
 publication: '***Chemistry of Materials***'
+
+tags:
+- 2D materials
+
+doi: https://doi.org/10.1021/acs.chemmater.9b02157
 ---
