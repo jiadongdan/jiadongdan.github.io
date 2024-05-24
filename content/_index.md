@@ -65,7 +65,7 @@ sections:
               <img style="width: 170px; border-radius: 170px;" src="/authors/admin/avatar.jpg" alt="Profile Picture">
           </div>
           <div class="col-sm-8">
-              <h1 class="post-title">Jiadong Dan</h1>
+              <h1 class="portrait-title">Jiadong Dan</h1>
               <p class="desc"></p>
               <p>Eric and Wendy Schmidt AI in Science Fellow<br>
                 National University of Singapore, Singapore<br>
