@@ -33,7 +33,7 @@ sections:
               <div class="profile-picture-container" style="width: 170px; height: 170px; border-radius: 50%; overflow: hidden;">
                   <img style="width: 100%; height: 100%; object-fit: cover;" src="/authors/admin/avatar.jpg" alt="Profile Picture">
               </div>
-              <span class="status-emoji" style="position: absolute; bottom: 10px; right: 10px; font-size: 20px;">🌵</span>
+              <span class="status-emoji" style="position: absolute; bottom: 15px; right: 15px; font-size: 20px;">🌵</span>
             </div>
          </div>
          <div class="col-sm-8 d-flex flex-column justify-content-center align-items-center align-items-sm-start text-center text-sm-left">
