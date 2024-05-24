@@ -65,11 +65,11 @@ sections:
               <img style="width: 170px; border-radius: 170px;" src="" alt="Profile Picture">
           </div>
           <div class="col-sm-9">
-              <h1 class="post-title">Bolei Zhou</h1>
+              <h1 class="post-title">Jiadong Dan</h1>
               <p class="desc"></p>
-              <p>Assistant Professor<br>
-                Computer Science Department, University of California, Los Angeles<br>
-                Office: 295D, Engineering VI, UCLA
+              <p>Eric and Wendy Schmidt AI in Science Fellow<br>
+                National University of Singapore, Singapore<br>
+                Office: 14, Science Drive 4, CBIS, NUS
               </p>
               <div class="social">
                   <div class="contact-icons">
@@ -88,9 +88,9 @@ sections:
                       <a href="https://twitter.com/zhoubolei" target="_blank" title="Twitter">
                           <i class="fab fa-twitter"></i>
                       </a>
-                  </div>
-              </div>
-          </div>
+                   </div>
+               </div>
+            </div>
         </div>
-
+    
 ---
