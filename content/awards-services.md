@@ -6,7 +6,7 @@ date: 2023-04-25
 sections:
   - block: markdown
     content:
-      title: Awards and Honors
+      title: "<h1 style="text-align: left;">Awards and Honors</h1>"
       subtitle:
       text: |-
         <span style="color:darkgray">[**2024**]</span> ✈️Kavli IPMU Travel Award (AI-Driven Discovery in Physics and Astrophysics) <br/>
