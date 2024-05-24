@@ -85,7 +85,6 @@ sections:
                   <a href="/uploads/resume.pdf" target="_blank" rel="noopener" aria-label="cv"><i class="ai ai-cv big-icon"></i></a>
                 </li>
               </ul>
-              
               <div class="social">
                   <div class="contact-icons">
                       <a href="assets/pdf/cv.pdf">
