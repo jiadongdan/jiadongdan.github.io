@@ -23,7 +23,9 @@ banner:
   .icon-container a {
     color: #808080;
     text-decoration: none;
-    margin-right: 5px;
+  }
+  .icon-container a:hover {
+    text-decoration: underline;
   }
   .icon-container .ai-google-scholar {
     color: #4081EC;
