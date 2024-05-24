@@ -61,7 +61,7 @@ sections:
       subtitle:
       text: |-
         <div class="row">
-          <div class="col-sm-4">
+          <div class="col-sm-4 d-flex justify-content-center align-items-center">
               <img style="width: 170px; border-radius: 170px;" src="/authors/admin/avatar.jpg" alt="Profile Picture">
           </div>
           <div class="col-sm-8">
