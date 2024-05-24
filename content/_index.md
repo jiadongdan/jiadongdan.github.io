@@ -30,7 +30,9 @@ sections:
       text: |-
         <div class="row">
           <div class="col-sm-4 d-flex justify-content-center align-items-center">
-              <img style="width: 170px; border-radius: 170px;" src="/authors/admin/avatar.jpg" alt="Profile Picture">
+            <div class="profile-picture-container" style="width: 170px; height: 170px; border-radius: 50%; overflow: hidden;">
+              <img style="width: 100%; height: 100%; object-fit: cover;" src="/authors/admin/avatar.jpg" alt="Profile Picture">
+            </div>
           </div>
           <div class="col-sm-8">
               <h1 class="portrait-title">Jiadong Dan</h1>
