@@ -31,7 +31,7 @@ sections:
           <div class="col-sm-4 d-flex justify-content-center align-items-center">
             <div class="profile-picture-container" style="width: 170px; height: 170px; border-radius: 50%; overflow: hidden;">
               <img style="width: 100%; height: 100%; object-fit: cover;" src="/authors/admin/avatar.jpg" alt="Profile Picture">
-              <span class="status-emoji">🌵</span>
+              <span style="position: absolute; bottom: 10px; right: 10px; font-size: 24px; background: white; border-radius: 50%; padding: 2px;">😊</span>
             </div>
           </div>
           <div class="col-sm-8 d-flex flex-column justify-content-center align-items-center align-items-sm-start text-center text-sm-left">
@@ -103,14 +103,3 @@ sections:
     design:
       columns: '1'    
 ---
-<style>
-  .status-emoji {
-      position: absolute;
-      bottom: 10px;
-      right: 10px;
-      font-size: 24px;
-      background: white;
-      border-radius: 50%;
-      padding: 2px;
-  }
-</style>
