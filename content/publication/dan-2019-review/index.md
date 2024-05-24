@@ -9,4 +9,12 @@ publishDate: '2024-04-24T14:21:16.465914Z'
 publication_types:
 - article-journal
 publication: '***InfoMat***'
+
+tags:
+- STEM
+- ML
+- machine learning
+
+doi: https://doi.org/10.1002/inf2.12026
+
 ---

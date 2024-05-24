@@ -17,4 +17,10 @@ publishDate: '2024-04-24T14:45:57.285856Z'
 publication_types:
 - article-journal
 publication: '***Nanoscale Advances***'
+
+tags:
+- STEM
+- 2D materials
+
+doi: https://doi.org/10.1039/c8na00212f
 ---
