@@ -31,8 +31,7 @@ sections:
          <div class="col-sm-4 d-flex justify-content-center align-items-center">
             <div class="profile-picture-container" style="width: 170px; height: 170px; border-radius: 50%; overflow: hidden;">
               <img style="width: 100%; height: 100%; object-fit: cover;" src="/authors/admin/avatar.jpg" alt="Profile Picture">
-              <span class="status-emoji" style="position: absolute; bottom: 10px; right: 10px; font-size: 24px; background: white; border-radius: 50%; padding: 2px;">😊</span>
-              <div class="status-dot" style="position: absolute; bottom: 5px; right: 5px; width: 12px; height: 12px; background-color: green; border-radius: 50%; border: 2px solid white;"></div>
+              <span class="status-emoji" style="position: absolute; bottom: 20px; right: 20px; width: 12px; height: 12px; font-size: 12px; background: white; border-radius: 50%; border: 2px solid black;">😊</span>
             </div>
          </div>
          <div class="col-sm-8 d-flex flex-column justify-content-center align-items-center align-items-sm-start text-center text-sm-left">
