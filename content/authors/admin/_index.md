@@ -14,13 +14,13 @@ organizations:
   url: "https://nus.edu.sg/"
 
 interests:
-- Physics-informed representation learning
-- Generative models for electron microscopy data augmentation
-- AI for inverse problem -- electron ptychography
-- AI for data-sparse science -- 4D-STEM
+  - Physics-informed representation learning
+  - Generative models for electron microscopy data augmentation
+  - AI for inverse problem -- electron ptychography
+  - AI for data-sparse science -- 4D-STEM
 
 education:
-  - area: Ph.D. Integrative Sciences and Engineering
+  - area: PhD Integrative Sciences and Engineering
     institution: National University of Singapore
     date_start: 2015-08-01
     date_end: 2020-01-01
