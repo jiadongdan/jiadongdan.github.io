@@ -5,24 +5,23 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.avatar
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text:
-    design:
-      background:
-        color: black
-        text_color_light: true
-        image:
-          # Add your image background to `assets/media/`.
-          filename: cover_page.png
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-          parallax: false
-
+  #- block: about.avatar
+  #  content:
+  #    # Choose a user profile to display (a folder name within `content/authors/`)
+  #    username: admin
+  #    text:
+  #  design:
+  #    background:
+  #      color: black
+  #      text_color_light: true
+  #      image:
+  #        # Add your image background to `assets/media/`.
+  #        filename: cover_page.png
+  #        filters:
+  #          brightness: 0.5
+  #        size: cover
+  #        position: center
+  #        parallax: false
   - block: markdown
     content:
       title:
