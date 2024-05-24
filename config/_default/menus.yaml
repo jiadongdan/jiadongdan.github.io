@@ -19,7 +19,7 @@ main:
   #- name: Softwares
   #  url: '/softwares'
   #  weight: 40
-  - name: '&lt;/Code&gt;'
+  - name: '&lt;/code&gt;'
     url: '/project-codes'
     weight: 50
   - name: Awards & Services
