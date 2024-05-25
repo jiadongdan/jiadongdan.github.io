@@ -48,13 +48,13 @@ sections:
                   <a href="https://scholar.google.com/citations?user=U4t214wAAAAJ&amp;hl=en" target="_blank" rel="noopener" aria-label="google-scholar"><i class="ai ai-google-scholar big-icon"></i></a>
                 </li>
                 <li>
+                  <a href="https://orcid.org/0000-0002-0225-5563" target="_blank" rel="noopener" aria-label="orcid"><i class="ai ai-orcid big-icon"></i></a>
+                </li>
+                <li>
                   <a href="https://github.com/jiadongdan" target="_blank" rel="noopener" aria-label="github"><i class="fab fa-github big-icon"></i></a>
                 </li>
                 <li>
                   <a href="https://linkedin.com/in/jiadongdan" target="_blank" rel="noopener" aria-label="linkedin"><i class="fab fa-linkedin big-icon"></i></a>
-                </li>
-                <li>
-                  <a href="https://linkedin.com/in/jiadongdan" target="_blank" rel="noopener" aria-label="linkedin"><i class="fa-brands fa-x-twitter big-icon"></i></a>
                 </li>
                 <li>
                   <a href="/uploads/resume.pdf" target="_blank" rel="noopener" aria-label="cv"><i class="ai ai-cv big-icon"></i></a>
