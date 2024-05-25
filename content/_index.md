@@ -54,6 +54,9 @@ sections:
                   <a href="https://linkedin.com/in/jiadongdan" target="_blank" rel="noopener" aria-label="linkedin"><i class="fab fa-linkedin big-icon"></i></a>
                 </li>
                 <li>
+                  <a href="https://linkedin.com/in/jiadongdan" target="_blank" rel="noopener" aria-label="linkedin"><i class="fa-brands fa-x-twitter big-icon"></i></a>
+                </li>
+                <li>
                   <a href="/uploads/resume.pdf" target="_blank" rel="noopener" aria-label="cv"><i class="ai ai-cv big-icon"></i></a>
                 </li>
               </ul>
