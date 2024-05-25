@@ -21,7 +21,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     #description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    description: 'Jiadong Dan, the Eric and Wendy Schimdt AI in Science Fellow, his personal website published with Hugo.'
+    description: 'Jiadong Dan, an Eric and Wendy Schimdt AI in Science Fellow, his personal website published with Hugo.'
     twitter: 'jiadong_dan'
   analytics:
     google_analytics: ''
@@ -40,7 +40,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: false
-    highlight_active_link: true
+    highlight_active_link: false
 
 # Site footer
 
