@@ -68,19 +68,31 @@ h1 {
   color: #4081ec; /* or any other color you prefer */
 }
 
+.ai.ai-google-scholar.fa-xl {
+  color: inherit; 
+}
+
 .ai.ai-orcid {
   color: #a1c837; /* or any other color you prefer */
+}
+
+.ai.ai-orcid.fa-xl {
+  color: inherit;
 }
 
 .ai.ai-cv {
   color: #2d3742; /* or any other color you prefer */
 }
 
-.fa.fa-github {
+.ai.ai-cv {
+  color: inherit; 
+}
+
+.fab.fa-github {
   color: #1F2328; /* or any other color you prefer */
 }
 
-.fa.fa-linkedin {
+.fab.fa-linkedin {
   color: #0072b1; /* or any other color you prefer */
 }
 
