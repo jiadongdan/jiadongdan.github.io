@@ -1,14 +1,23 @@
 ---
 title: Learning motifs and their hierarchies in atomic resolution microscopy
-authors: ['admin', 'Xiaoxu Zhao', 'Shoucong Ning', 'Jiong Lu', 'Kian Ping Loh', 'Qian He', 'N. Duane Loh✉️', 'Stephen J. Pennycook✉️']
-# - admin
-# - Xiaoxu Zhao
-# - Shoucong Ning
-# - Jiong Lu
-# - Kian Ping Loh
-# - Qian He
-# - 'N. Duane Loh'
-# - 'Stephen J. Pennycook'
+authors:
+- admin
+- Xiaoxu Zhao
+- Shoucong Ning
+- Jiong Lu
+- Kian Ping Loh
+- Qian He
+- N. Duane Loh
+- Stephen J. Pennycook
+author_notes:
+- 
+- 
+- 
+- 
+- 
+- 
+- Corresponding author
+- Corresponding author
 date: '2022-04-01'
 publishDate: '2024-04-24T14:21:16.459190Z'
 publication_types:
