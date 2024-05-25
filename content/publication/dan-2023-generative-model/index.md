@@ -7,7 +7,7 @@ authors:
 - Kui Yao
 - John Wang
 - Stephen J. Pennycook
-- 'N.Duane Loh✉️'
+- 'N. Duane Loh <i class="fas fa-envelope"></i>'
 
 date: '2023-10-01'
 publishDate: '2024-04-24T14:21:16.431752Z'
