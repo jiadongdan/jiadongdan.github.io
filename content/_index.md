@@ -39,9 +39,9 @@ sections:
          <div class="col-sm-8 d-flex flex-column justify-content-center align-items-center align-items-sm-start text-center text-sm-left">
               <h1 class="portrait-title">Jiadong Dan</h1>
               <p class="desc"></p>
-              <p>Eric and Wendy Schmidt AI in Science Fellow<br>
-                National University of Singapore, Singapore<br>
-                Office: 14, Science Drive 4, CBIS, NUS
+              <p>🤖Eric and Wendy Schmidt AI in Science Fellow<br>
+                🎓National University of Singapore, Singapore🇸🇬<br>
+                💼Office: 14, Science Drive 4, CBIS, NUS
               </p>
               <ul class="network-icon" aria-hidden="true" style="list-style: none; padding: 0; display: flex; gap: 10px;">
                 <li>
