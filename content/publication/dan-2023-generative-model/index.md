@@ -3,7 +3,7 @@ title: A multiscale generative model to understand disorder in domain boundaries
 authors:
 - admin
 - Moaz Waqar
-- Ivan Erofeev
+- 'Ivan Erofeev✉️'
 - Kui Yao
 - John Wang
 - Stephen J. Pennycook
