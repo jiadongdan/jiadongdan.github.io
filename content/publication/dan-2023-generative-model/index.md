@@ -1,21 +1,13 @@
 ---
 title: A multiscale generative model to understand disorder in domain boundaries
 authors:
-- admin✉️
+- admin
 - Moaz Waqar
 - Ivan Erofeev
 - Kui Yao
 - John Wang
 - Stephen J. Pennycook
 - 'N. Duane Loh✉️'
-author_notes:
-- 
-- 
-- 
-- 
-- 
-- 
--
 
 date: '2023-10-01'
 publishDate: '2024-04-24T14:21:16.431752Z'
