@@ -17,7 +17,8 @@
     </span>
     {{- if isset $.Params "author_notes" -}}
       {{- with (index $.Params.author_notes $index) -}}
-        <i class="author-notes fas fa-envelope" data-toggle="tooltip" title="{{.}}"></i>
+        <!-- remove fontawesome, use emoji -->
+        <!-- <i class="author-notes fas fa-envelope" data-toggle="tooltip" title="{{.}}"></i>  -->
         <span data-toggle="tooltip" title="{{.}}">✉️</span>
       {{- end -}}
     {{- end -}}
