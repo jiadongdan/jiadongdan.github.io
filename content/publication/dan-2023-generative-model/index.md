@@ -7,7 +7,7 @@ authors:
 - Kui Yao
 - John Wang
 - Stephen J. Pennycook
-- 'N. Duane Loh<a href="" target="_blank" rel="noopener" aria-label="email"><i class="fa-solid fa-envelope fa-xl"></i></a>'
+- 'N. Duane Loh<i class="fa-solid fa-envelope"></i>'
 author_notes:
 - "Corresponding Author"
 - 
