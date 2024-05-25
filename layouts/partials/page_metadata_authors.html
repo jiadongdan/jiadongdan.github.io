@@ -18,7 +18,7 @@
     {{- if isset $.Params "author_notes" -}}
       {{- with (index $.Params.author_notes $index) -}}
         <i class="author-notes fas fa-envelope" data-toggle="tooltip" title="{{.}}"></i>
-        <span>✉️</span>
+        <span data-toggle="tooltip" title="{{.}}">✉️</span>
       {{- end -}}
     {{- end -}}
   {{- end -}}
