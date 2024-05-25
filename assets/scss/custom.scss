@@ -64,42 +64,16 @@ h1 {
 }
 
 
-.ai.ai-google-scholar {
-  color: #4081ec; /* or any other color you prefer */
-}
-
-.ai.ai-google-scholar.fa-xl {
-  color: inherit; 
-}
-
-.ai.ai-orcid {
-  color: #a1c837; /* or any other color you prefer */
-}
-
-.ai.ai-orcid.fa-xl {
+.ai.ai-google-scholar,
+.ai.ai-orcid,
+.ai.ai-cv,
+.fab.fa-github,
+.fab.fa-linkedin {
   color: inherit;
 }
 
-.ai.ai-cv {
-  color: #2d3742; /* or any other color you prefer */
-}
-
-.ai.ai-cv.fa-xl {
-  color: inherit; 
-}
-
-.fab.fa-github {
-  color: #1F2328; /* or any other color you prefer */
-}
-
-.fab.fa-github.fa-xl {
-  color: inherit; 
-}
-
-.fab.fa-linkedin {
-  color: #0072b1; /* or any other color you prefer */
-}
-
-.fab.fa-linkedin.fa-xl {
-  color: inherit; 
-}
+.ai.ai-google-scholar { color: #4081ec; }
+.ai.ai-orcid { color: #a1c837; }
+.ai.ai-cv { color: #2d3742; }
+.fab.fa-github { color: #1F2328; }
+.fab.fa-linkedin { color: #0072b1; }
