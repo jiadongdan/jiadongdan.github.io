@@ -63,17 +63,16 @@ h1 {
   font-size: 2rem;
 }
 
-
-.ai.ai-google-scholar,
-.ai.ai-orcid,
-.ai.ai-cv,
-.fab.fa-github,
-.fab.fa-linkedin {
-  color: inherit;
-}
-
 .ai.ai-google-scholar { color: #4081ec; }
 .ai.ai-orcid { color: #a1c837; }
 .ai.ai-cv { color: #111; }
 .fab.fa-github { color: #1F2328; }
 .fab.fa-linkedin { color: #0072b1; }
+
+.ai.ai-google-scholar.fa-xl,
+.ai.ai-orcid.fa-xl,
+.ai.ai-cv.fa-xl,
+.fab.fa-github.fa-xl,
+.fab.fa-linkedin.fa-xl {
+  color: inherit;
+}
