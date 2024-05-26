@@ -40,9 +40,9 @@ sections:
               <h1 class="portrait-title">Jiadong Dan</h1>
               <p class="desc"></p>
                 <p style="line-height: 1.5; font-size: 1em;">
-                  <span style="font-size: 1em; line-height: inherit; vertical-align: middle;">🤖</span> Eric and Wendy Schmidt AI in Science Fellow<br>
-                  <span style="font-size: 1em; line-height: inherit; vertical-align: middle;">🎓</span> National University of Singapore, <span style="font-size: 1em; line-height: inherit; vertical-align: middle;">🇸🇬</span><br>
-                  <span style="font-size: 1em; line-height: inherit; vertical-align: middle;">📍</span> Office: 14, Science Drive 4, CBIS, NUS
+                  <span style="font-size: 1em; line-height: inherit; vertical-align: middle; display: inline-block; width: 1.2em; text-align: center;">🤖</span> Eric and Wendy Schmidt AI in Science Fellow<br>
+                  <span style="font-size: 1em; line-height: inherit; vertical-align: middle; display: inline-block; width: 1.2em; text-align: center;">🎓</span> National University of Singapore, 🇸🇬<br>
+                  <span style="font-size: 1em; line-height: inherit; vertical-align: middle; display: inline-block; width: 1.2em; text-align: center;">📍</span> Office: 14, Science Drive 4, CBIS, NUS
                 </p>
               <ul class="network-icon" aria-hidden="true" style="list-style: none; padding: 0; display: flex; gap: 10px;">
                 <li>
