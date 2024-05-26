@@ -39,10 +39,11 @@ sections:
          <div class="col-sm-8 d-flex flex-column justify-content-center align-items-center align-items-sm-start text-center text-sm-left">
               <h1 class="portrait-title">Jiadong Dan</h1>
               <p class="desc"></p>
-              <p>🤖Eric and Wendy Schmidt AI in Science Fellow<br>
-                 🎓National University of Singapore, 🇸🇬<br>
-                 📍Office: 14, Science Drive 4, CBIS, NUS
-              </p>
+                <p class="aligned-text">
+                  <span class="emoji">🤖</span> Eric and Wendy Schmidt AI in Science Fellow<br>
+                  <span class="emoji">🎓</span> National University of Singapore, <span class="emoji">🇸🇬</span><br>
+                  <span class="emoji">📍</span> Office: 14, Science Drive 4, CBIS, NUS
+                </p>
               <ul class="network-icon" aria-hidden="true" style="list-style: none; padding: 0; display: flex; gap: 10px;">
                 <li>
                   <a href="https://scholar.google.com/citations?user=U4t214wAAAAJ&amp;hl=en" target="_blank" rel="noopener" aria-label="google-scholar"><i class="ai ai-google-scholar fa-xl"></i></a>
