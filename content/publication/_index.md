@@ -39,7 +39,7 @@ banner:
 </style>
 
 <div class="icon-container">
-  | <a href="https://scholar.google.com/citations?user=U4t214wAAAAJ&hl=en" target="_blank">
+   <a href="https://scholar.google.com/citations?user=U4t214wAAAAJ&hl=en" target="_blank">
     <i class="ai ai-google-scholar"></i> Google Scholar
   </a> |
   <a href="https://www.researchgate.net/profile/Jiadong-Dan" target="_blank">
@@ -47,6 +47,6 @@ banner:
   </a> |
   <a href="https://orcid.org/0000-0002-0225-5563" target="_blank">
     <i class="ai ai-orcid"></i> ORCID
-  </a> |
+  </a> 
 </div>
 <br />
