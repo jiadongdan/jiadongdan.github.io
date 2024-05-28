@@ -21,6 +21,12 @@ tags:
 - clustering
 - Zernike polynomials
 
-doi: https://doi.org/10.1017/S1431927622011242
-url_code: https://github.com/jiadongdan/motif-learn
+#doi: https://doi.org/10.1017/S1431927622011242
+#url_code: https://github.com/jiadongdan/motif-learn
+
+links:
+- name: '🌐HTML'
+  url: 'https://doi.org/10.1017/S1431927622011242'
+- name: '💻Code'
+  url: 'https://github.com/jiadongdan/motif-learn'
 ---

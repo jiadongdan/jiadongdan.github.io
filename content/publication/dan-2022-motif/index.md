@@ -41,5 +41,5 @@ links:
 - name: '📑PDF'
   url: 'https://www.science.org/doi/epdf/10.1126/sciadv.abk1005'
 - name: '💻Code'
-    url: 'https://github.com/jiadongdan/motif-learn'
+  url: 'https://github.com/jiadongdan/motif-learn'
 ---
