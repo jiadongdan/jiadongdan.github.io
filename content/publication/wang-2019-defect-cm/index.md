@@ -21,7 +21,6 @@ publication: '***Chemistry of Materials***'
 tags:
 - 2D materials
 
-links:
-- name: '🌐HTML'
-  url: https://doi.org/10.1021/acs.chemmater.9b02157
+
+url_source: https://doi.org/10.1021/acs.chemmater.9b02157
 ---

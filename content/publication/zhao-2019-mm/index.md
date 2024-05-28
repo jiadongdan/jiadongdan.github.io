@@ -15,7 +15,6 @@ publication: '***Microscopy and Microanalysis***'
 tags:
 - 2D materials
 
-links:
-- name: '🌐HTML'
-  doi: https://doi.org/10.1557/mrs.2017.184
+
+url_source: https://doi.org/10.1557/mrs.2017.184
 ---

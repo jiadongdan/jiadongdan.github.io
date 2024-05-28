@@ -21,9 +21,8 @@ tags:
 
 #doi: https://doi.org/10.1093/micmic/ozad067.977
 
-links:
-- name: '🌐HTML'
-  url: 'https://doi.org/10.1093/micmic/ozad067.977'
+
+url_source: 'https://doi.org/10.1093/micmic/ozad067.977'
 
 url_pdf: ''
 url_code: ''
@@ -31,6 +30,5 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
 url_video: ''
 ---

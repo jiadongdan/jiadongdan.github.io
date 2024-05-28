@@ -22,7 +22,6 @@ publication: '***Nano Letters***'
 tags:
 - 2D materials
 
-links:
-- name: '🌐HTML'
-  url: https://doi.org/10.1021/acs.nanolett.8b02688
+
+url_source: https://doi.org/10.1021/acs.nanolett.8b02688
 ---

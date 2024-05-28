@@ -32,10 +32,6 @@ tags:
 # doi: https://doi.org/10.1126/sciadv.adj0904
 
 links:
-- name: '🌐HTML' # this is the same as DOI
-  url: 'https://doi.org/10.1126/sciadv.adj0904'
-- name: '📑PDF'
-  url: 'https://www.science.org/doi/epdf/10.1126/sciadv.adj0904'
 - name: "📰NUS News"
   url: "https://www.science.nus.edu.sg/blog/2023/12/04/generative-model-unveils-secrets-of-material-disorder-2/"
 - name: "📰EurekAlert"
@@ -45,13 +41,13 @@ links:
 - name: "📰Phys.org"
   url: "https://phys.org/news/2023-12-generative-unveils-secrets-material-disorder.html"
 
-url_pdf: ''
+url_pdf: 'https://www.science.org/doi/epdf/10.1126/sciadv.adj0904'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.1126/sciadv.adj0904'
 url_video: ''
 
 # Associated Projects (optional).

@@ -27,7 +27,6 @@ publication: '***Nature***'
 tags:
 - 2D materials
 
-links:
-- name: '🌐HTML'
-  url: https://doi.org/10.1038/s41586-020-2241-9
+
+url_source: https://doi.org/10.1038/s41586-020-2241-9
 ---
