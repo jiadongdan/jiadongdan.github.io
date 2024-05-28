@@ -29,11 +29,11 @@ tags:
 - generative model
 - Markov chain
 
-doi: https://doi.org/10.1126/sciadv.adj0904
+# doi: https://doi.org/10.1126/sciadv.adj0904
 
 links:
-- name: '🌐HTML'
-  url: 'https://www.science.org/doi/full/10.1126/sciadv.adj0904'
+- name: '🌐HTML' # this is the same as DOI
+  url: 'https://doi.org/10.1126/sciadv.adj0904'
 - name: '📑PDF'
   url: 'https://www.science.org/doi/epdf/10.1126/sciadv.adj0904'
 - name: "📰NUS News"
