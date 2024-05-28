@@ -18,5 +18,7 @@ publication: '***ACS Nano***'
 tags:
 - 2D materials
 
-doi: https://doi.org/10.1021/acsnano.7b09029
+links:
+- name: '🌐HTML'
+  url: https://doi.org/10.1021/acsnano.7b09029
 ---

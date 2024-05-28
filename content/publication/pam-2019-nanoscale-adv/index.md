@@ -22,5 +22,7 @@ tags:
 - STEM
 - 2D materials
 
-doi: https://doi.org/10.1039/c8na00212f
+links:
+- name: '🌐HTML'
+  url: https://doi.org/10.1039/c8na00212f
 ---

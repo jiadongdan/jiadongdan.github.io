@@ -19,6 +19,8 @@ tags:
 - ML
 - machine learning
 
-doi: https://doi.org/10.1017/S143192762200157X
+links:
+- name: '🌐HTML'
+  url: https://doi.org/10.1017/S143192762200157X
 
 ---

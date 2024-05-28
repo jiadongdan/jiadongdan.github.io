@@ -16,5 +16,7 @@ publication_types:
 - article-journal
 publication: '***Catalysts***'
 
-doi: https://doi.org/10.3390/catal11080911
+links:
+- name: '🌐HTML'
+  url: https://doi.org/10.3390/catal11080911
 ---

@@ -18,5 +18,7 @@ publication: '***Advanced Materials***'
 tags:
 - 2D materials
 
-doi: https://doi.org/10.1002/adma.201900237
+links:
+- name: '🌐HTML'
+  url: https://doi.org/10.1002/adma.201900237
 ---

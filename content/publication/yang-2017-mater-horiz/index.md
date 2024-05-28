@@ -16,5 +16,7 @@ publication_types:
 - article-journal
 publication: '***Materials Horizons***'
 
-doi: https://doi.org/10.1039/C7MH00314E
+links:
+- name: '🌐HTML'
+  url: https://doi.org/10.1039/C7MH00314E
 ---
