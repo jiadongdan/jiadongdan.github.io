@@ -61,7 +61,7 @@
   translation: Preprint
 
 - id: btn_pdf
-  translation: PDF
+  translation: '📑PDF'
 
 - id: btn_cite
   translation: '📖Cite'
@@ -73,7 +73,7 @@
   translation: Video
 
 - id: btn_code
-  translation: Code
+  translation: '💻Code'
 
 - id: btn_dataset
   translation: Dataset
@@ -85,7 +85,7 @@
   translation: Poster
 
 - id: btn_source
-  translation: Source Document
+  translation: '🌐HTML'
 
 - id: btn_copy
   translation: Copy
