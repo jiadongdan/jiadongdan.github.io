@@ -15,6 +15,12 @@ tags:
 - ML
 - machine learning
 
-doi: https://doi.org/10.1002/inf2.12026
-url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/inf2.12026
+#doi: https://doi.org/10.1002/inf2.12026
+#url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/inf2.12026
+
+links:
+- name: '🌐HTML'
+  url: 'https://doi.org/10.1002/inf2.12026'
+- name: '📑PDF'
+  url: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/inf2.12026'
 ---
