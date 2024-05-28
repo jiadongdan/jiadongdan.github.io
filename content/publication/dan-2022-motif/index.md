@@ -40,6 +40,6 @@ links:
   url: 'https://doi.org/10.1126/sciadv.abk1005'
 - name: '📑PDF'
   url: 'https://www.science.org/doi/epdf/10.1126/sciadv.abk1005'
-- name: '</>Code'
+- name: '💻Code'
     url: 'https://github.com/jiadongdan/motif-learn'
 ---
