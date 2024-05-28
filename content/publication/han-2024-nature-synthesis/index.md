@@ -27,11 +27,14 @@ tags:
 - defects
 - 2D materials
 
-doi: http://dx.doi.org/10.1038/s44160-024-00501-z
+#doi: http://dx.doi.org/10.1038/s44160-024-00501-z
 
-#links:
-#- name: ""
-#  url: ""
+links:
+- name: '🌐HTML'
+  url: 'http://dx.doi.org/10.1038/s44160-024-00501-z'
+- name: '📑PDF'
+  url: 'https://g.ruc.edu.cn/wp-content/uploads/2024/04/2024-QJS-NS-s44160-024-00501-z.pdf'
+
 
 url_pdf:
 url_code: ''
@@ -39,6 +42,6 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.nature.com/articles/s44160-024-00501-z'
+url_source: ''
 url_video: ''
 ---

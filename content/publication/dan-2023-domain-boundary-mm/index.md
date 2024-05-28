@@ -19,11 +19,11 @@ tags:
 - domain boundary
 - disorder
 
-doi: https://doi.org/10.1093/micmic/ozad067.977
+#doi: https://doi.org/10.1093/micmic/ozad067.977
 
-#links:
-#- name:
-#  url:
+links:
+- name: '🌐HTML'
+  url: 'https://doi.org/10.1093/micmic/ozad067.977'
 
 url_pdf: ''
 url_code: ''
