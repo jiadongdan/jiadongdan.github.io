@@ -32,7 +32,7 @@ tags:
 doi: https://doi.org/10.1126/sciadv.adj0904
 
 links:
-- name: "NUS News"
+- name: "📰NUS News"
   url: "https://www.science.nus.edu.sg/blog/2023/12/04/generative-model-unveils-secrets-of-material-disorder-2/"
 - name: "EurekAlert"
   url: "https://www.eurekalert.org/news-releases/1009951"
