@@ -31,11 +31,8 @@ tags:
 
 # doi: https://doi.org/10.1126/sciadv.adj0904
 
-
-
 url_source: 'https://doi.org/10.1126/sciadv.adj0904'
 url_pdf: 'https://www.science.org/doi/epdf/10.1126/sciadv.adj0904'
-
 links:
 - name: "📰NUS News"
   url: "https://www.science.nus.edu.sg/blog/2023/12/04/generative-model-unveils-secrets-of-material-disorder-2/"
@@ -51,12 +48,12 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+#projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+#slides: ""
 ---
