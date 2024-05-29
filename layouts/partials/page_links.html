@@ -33,7 +33,7 @@
 {{ with $resource }}
 <a href="#" class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}} js-cite-modal"
         data-filename="{{ .RelPermalink }}">
-  {{ i18n "btn_cite" }}
+  <i class="fas fa-quote-right"></i> {{ i18n "btn_cite" }}
 </a>
 {{ end }}
 {{ with $page.Params.url_code }}
