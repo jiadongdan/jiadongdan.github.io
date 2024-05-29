@@ -82,7 +82,7 @@
   translation: Project
 
 - id: btn_poster
-  translation: Poster
+  translation: 'Poster'
 
 - id: btn_source
   translation: 'HTML'
