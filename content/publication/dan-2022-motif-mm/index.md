@@ -24,4 +24,5 @@ tags:
 #doi: https://doi.org/10.1017/S1431927622011242
 url_source: https://doi.org/10.1017/S1431927622011242
 url_code: https://github.com/jiadongdan/motif-learn
+url_poster: '/pdf/MM2022_Poster_v5.pdf'
 ---
