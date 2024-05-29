@@ -50,5 +50,5 @@ url_video: ''
 # prevent it appearing in any page collections
 _build:
   render: always
-  list: never
+  list: always
 ---
