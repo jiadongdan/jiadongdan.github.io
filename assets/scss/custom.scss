@@ -17,7 +17,8 @@ a {
 
   &:hover {
     color: #ffffff;
-    background-color: #6e6e6e;
+    background-color: lighten(#8C1515, 10%);
+    border-color: #8C1515;
   }
 }
 
