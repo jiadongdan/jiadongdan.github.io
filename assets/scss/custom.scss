@@ -78,7 +78,11 @@ h1 {
   color: inherit;
 }
 
-.author-note.fas.fa-envelope { color: #A3ADBA; }
+i.author-note.fas.fa-envelope { 
+  //color: #A3ADBA;
+  color: red;
+  padding-left: 0px; 
+}
 
 .grid-sizer.col-lg-12.isotope-item {
   padding-left: 2px;
