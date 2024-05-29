@@ -73,7 +73,7 @@
   translation: Video
 
 - id: btn_code
-  translation: '<i class="fab fa-code"></i>Code'
+  translation: "<i class='fab fa-code'></i>Code"
 
 - id: btn_dataset
   translation: Dataset
