@@ -11,8 +11,8 @@ appearance:
   theme_day: custom
   theme_night:
   font: roboto
-  font_size: S
-  #font_size: M
+  #font_size: S
+  font_size: M
   #fotn_size: L
 
 # SEO
