@@ -83,7 +83,7 @@
     {{ $link = . | relURL }}
   {{ end }}
 <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  <i class="fas fa-file"> </i>{{ i18n "btn_poster" }}
+  <i class="fas fa-file"> </i> {{ i18n "btn_poster" }}
 </a>
 {{ end }}
 {{ if $page.Params.slides }}
