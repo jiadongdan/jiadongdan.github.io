@@ -23,6 +23,7 @@ tags:
 
 
 url_source: 'https://doi.org/10.1093/micmic/ozad067.977'
+url_poster: '/pdf/MM2023_Poster.pdf'
 
 url_pdf: ''
 url_code: ''
