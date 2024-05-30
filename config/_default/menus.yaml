@@ -25,9 +25,9 @@ main:
   - name: Awards & Services
     url: '/awards-services'
     weight: 60
-  - name: Team
-    url: '/team'
-    weight: 70
+  #- name: Team
+  #  url: '/team'
+  #  weight: 70
   #- name: Posts
   #  url: '/post'
   #  weight: 100
