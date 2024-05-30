@@ -24,6 +24,3 @@ sections:
       show_role: true
       show_social: false
 ---
-
-some texts some textssome textssome textssome textssome textssome textssome textssome textssome textssome texts
-
