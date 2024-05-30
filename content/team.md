@@ -5,7 +5,7 @@ date: 2022-05-30
 type: landing
 
 sections:
-  - block: about.avatar
+  - block: about.biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
