@@ -21,10 +21,9 @@ publishDate: "2024-05-28T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types:
 - article-journal
-publication: '***Chinese Physics B***'
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: '***Chinese Physics B***'
 publication_short: ""
 
 abstract: We present a method using Zernike moments for quantifying rotational and reflectional symmetries in scanning transmission electron microscopy (STEM) images, aimed at improving structural analysis of materials at the atomic scale. This technique is effective against common imaging noises and is potentially suited for low-dose imaging and identifying quantum defects. We showcase its utility in the unsupervised segmentation of polytypes in a twisted bilayer TaS2, enabling accurate differentiation of structural phases and monitoring transitions caused by electron beam effects. This approach enhances the analysis of structural variations in crystalline materials, marking a notable advancement in the characterization of structures in materials science.
