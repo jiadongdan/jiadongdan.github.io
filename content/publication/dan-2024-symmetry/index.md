@@ -19,7 +19,9 @@ publishDate: "2024-05-28T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types:
+- article-journal
+publication: '***Chinese Physics B***'
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -43,12 +45,6 @@ url_code: https://github.com/jiadongdan/motif-learn
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://arxiv.org/abs/2405.17519
+url_source: https://doi.org/10.1088/1674-1056/ad51f4
 url_video: ''
-
-
-# prevent it appearing in any page collections
-_build:
-  render: always
-  list: always
 ---
