@@ -47,16 +47,5 @@ sections:
               </ul>
             </div>
         </div>
-    design:
-      background:
-        color: black
-        text_color_light: true
-        image:
-          # Add your image background to `assets/media/`.
-          filename: cover_page.png
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-          parallax: false
+
 ---
