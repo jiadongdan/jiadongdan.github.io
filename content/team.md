@@ -59,13 +59,4 @@ sections:
           size: cover
           position: center
           parallax: false
-
-
-# this page will be rendered but not listed
-_build:
-  render: never
-cascade:
-  _build:
-    render: never
-    list: always
 ---
