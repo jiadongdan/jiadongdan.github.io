@@ -40,6 +40,7 @@ design:
   view: 4
   columns: '1'
 
+# put list to "never", otherwise it can still be accessed even though not rendered
 _build:
   render: never
 cascade:
