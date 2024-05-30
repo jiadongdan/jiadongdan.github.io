@@ -65,7 +65,7 @@ social:
   link: uploads/resume.pdf
 
 user_groups:
-  - Principal Investigator
+  - 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
