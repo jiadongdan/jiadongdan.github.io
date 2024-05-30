@@ -70,9 +70,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Postdoctoral Researchers
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
