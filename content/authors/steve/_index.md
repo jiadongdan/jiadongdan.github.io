@@ -1,6 +1,6 @@
 ---
 # Display name
-title: '[Stephen J. Pennycook](https://jiadongdan.github.io/publication/)'
+title: Stephen J. Pennycook
 
 # Is this the primary user of the site?
 superuser: false

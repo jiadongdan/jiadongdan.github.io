@@ -39,4 +39,11 @@ design:
   #   4 = Citation (publication only)
   view: 4
   columns: '1'
+
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: never
 ---
