@@ -1,6 +1,6 @@
 ---
 title: Research
-subtitle: do we need a subtitle?
+subtitle:
 
 date: 2022-05-30
 type: landing
