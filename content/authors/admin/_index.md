@@ -63,6 +63,10 @@ social:
   icon_pack: ai
   link: uploads/resume.pdf
 
+# Status emoji
+status:
+  icon: 🌵
+
 user_groups:
   - 
 
