@@ -34,6 +34,6 @@ sections:
       #   4 = Citation (publication only)
       #   5 = Showcase
       #   Masonry
-      view: 2
+      view: 5
       columns: '1'
 ---
