@@ -6,7 +6,7 @@ date: 2022-05-30
 type: landing
 
 sections:
-  - block: about.biography
+  - block: 
     content:
       # Page type to display. E.g. post, talk, publication...
       page_type: project
