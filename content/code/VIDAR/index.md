@@ -1,6 +1,6 @@
 ---
 title: VIDAR
-summary: Visualization Interface for Data Analytics and Reduction.
+summary: 📊Visualization Interface for Data Analytics and Reduction.
 tags:
   - plot
 date: 2024-05-21
