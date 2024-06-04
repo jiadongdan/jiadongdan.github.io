@@ -31,4 +31,7 @@ tags:
 
 url_source: 'http://dx.doi.org/10.1038/s44160-024-00501-z'
 url_pdf: 'https://g.ruc.edu.cn/wp-content/uploads/2024/04/2024-QJS-NS-s44160-024-00501-z.pdf'
+links:
+- name: '<i class="fas fa-rss"></i> Nature Synthesis News & Views'
+  url: https://www.nature.com/articles/s44160-024-00523-7
 ---
