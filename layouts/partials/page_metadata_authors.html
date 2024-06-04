@@ -22,5 +22,14 @@
         <!-- <span data-toggle="tooltip" title="{{.}}">✉️</span> -->
       {{- end -}}
     {{- end -}}
+
+    {{- if isset $.Params "author_equal" -}}
+      {{- with (index $.Params.author_equal $index) -}}
+        <!-- remove fontawesome, use emoji -->
+        <i class="author-equal fas fa-hashtag" data-toggle="tooltip" title="{{.}}"></i>
+        <!-- <span data-toggle="tooltip" title="{{.}}">✉️</span> -->
+      {{- end -}}
+    {{- end -}}
+
   {{- end -}}
 {{- end -}}
