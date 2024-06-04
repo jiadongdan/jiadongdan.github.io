@@ -1,8 +1,8 @@
 ---
 title: Atom-by-atom fabrication of monolayer molybdenum membranes
 authors:
-- Xiaoxu Zhao#
-- admin#
+- Xiaoxu Zhao
+- admin
 - Jianyi Chen
 - Zijing Ding
 - Wu Zhou
