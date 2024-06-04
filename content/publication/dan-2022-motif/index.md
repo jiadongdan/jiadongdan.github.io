@@ -40,4 +40,7 @@ url_source: 'https://doi.org/10.1126/sciadv.abk1005'
 url_pdf: 'https://www.science.org/doi/epdf/10.1126/sciadv.abk1005'
 url_code: 'https://github.com/jiadongdan/motif-learn'
 #url_dataset: https://github.com/jiadongdan/motif-learn
+links:
+- name: '<i class="fas fa-rss"></i> NUS News'
+  url: https://www.science.nus.edu.sg/blog/2022/06/21/learning-motifs-and-their-hierarchies-in-atomic-resolution-microscopy/
 ---
