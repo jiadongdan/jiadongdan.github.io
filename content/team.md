@@ -29,4 +29,12 @@ sections:
       show_interests: false
       show_role: true
       show_social: false
+
+# put list to "never", otherwise it can still be accessed even though not rendered
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: never
 ---
