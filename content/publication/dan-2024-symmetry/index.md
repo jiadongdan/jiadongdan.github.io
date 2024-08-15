@@ -39,8 +39,8 @@ featured: false
 
 url_pdf: https://arxiv.org/pdf/2405.17519
 url_code: https://github.com/jiadongdan/motif-learn
+url_poster: '/pdf/2024_NUS_FoS_Symmetry_Poster.pdf'
 #url_dataset: 'https://github.com/jiadongdan/motif-learn'
-url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: https://doi.org/10.1088/1674-1056/ad51f4
