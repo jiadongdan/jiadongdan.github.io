@@ -100,6 +100,8 @@ sections:
         ### What is Scanning Transmission Electron Microscopy?
         **Scanning Transmission Electron Microscopy (STEM)** is an advanced material characterization technique that uses a focused electron beam to scan thin samples, producing *atomic-resolution images*. Besides imaging, STEM can collect  *spectral data* to analyze material compositions and perform four-dimensional scanning transmission electron microscopy (*4DSTEM*), which captures diffraction patterns at each scan position.
         
+        ![research_vision](research_vision.png)
+
         Our research focuses on integrating artificial intelligence (AI) into electron microscopy to revolutionize how materials are studied and characterized. This approach bridges experimental and computational methods to uncover insights into disordered materials and accelerate scientific discovery. The work is organized into three key areas:
 
         ### Building a Comprehensive Electron Microscopy Database for Disordered Materials
