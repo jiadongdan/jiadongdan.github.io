@@ -100,11 +100,16 @@ sections:
         ### What is Scanning Transmission Electron Microscopy?
         **Scanning Transmission Electron Microscopy (STEM)** is an advanced material characterization technique that uses a focused electron beam to scan thin samples, producing *atomic-resolution images*. Besides imaging, STEM can collect  *spectral data* to analyze material compositions and perform four-dimensional scanning transmission electron microscopy (*4DSTEM*), which captures diffraction patterns at each scan position.
         
-        <!--### An Intelligent Electron Microscope Copilot-->
+        Our research focuses on integrating artificial intelligence (AI) into electron microscopy to revolutionize how materials are studied and characterized. This approach bridges experimental and computational methods to uncover insights into disordered materials and accelerate scientific discovery. The work is organized into three key areas:
 
-        <!--### Approach and Significance-->
-        
-        <!--### A Road Map to-->
+        ### Building a Comprehensive Electron Microscopy Database for Disordered Materials
+        We are developing a robust multimodal database to study disordered materials such as monolayer amorphous carbon and doped transition metal dichalcogenides. This includes atomic-resolution images, diffraction patterns (e.g., 4D-STEM), and electron energy loss spectroscopy (EELS) data, derived from both experimental results and GPU-accelerated simulations. Advanced algorithms ensure reproducibility by encoding experimental parameters as metadata, creating a foundational resource for AI-driven research.
+
+        ### Developing Machine Learning Models for Structural Analysis
+        Our machine learning models address a spectrum of tasks, including phase segmentation, defect classification, structure generation, and order parameter mapping. These models streamline the analysis of disordered and crystalline materials by identifying material phases, classifying defects across monolayer materials, and generating structural motifs. For complex systems such as twisted bilayer structures, we map atomic-level strain to understand their unique properties.
+
+        ### Creating AI Copilots to Accelerate Materials Discovery
+        We are designing AI copilots that integrate machine learning models, computational tools, and experimental data to support electron microscopy workflows. These intelligent agents provide actionable recommendations for experiment planning, data analysis, and visualization. By coordinating tasks like a research team, these copilots optimize workflows, enable dynamic feedback loops, and transform the experimental process, paving the way for innovative materials discovery.
 
     design:
       columns: '1'    
