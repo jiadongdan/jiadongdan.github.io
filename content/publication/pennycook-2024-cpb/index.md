@@ -1,13 +1,14 @@
 ---
 title: 'Physics through the microscope'
 authors:
-- Stephen J. Pennycook
+- Stephen J. Pennycook*
 - Ryo Ishikawa
 - Haijun Wu
 - Xiaoxu Zhao
 - Changjian Li
 - N. Duane Loh
 - admin
+- Wu Zhou
 date: '2024-09-14'
 publishDate: '2024-09-14T14:21:16.452960Z'
 publication_types:
