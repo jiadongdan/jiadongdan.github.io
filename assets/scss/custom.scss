@@ -118,3 +118,42 @@ i.author-equal.fas.fa-hashtag {
 .portrait-title h2 {
   font-size: 2rem;
 }
+
+// ---------------------------------------------------------------------------
+// Fix: horizontal overflow on `/research/` (showcase view) at narrow widths.
+//
+// Measured at a 390px viewport: scrollWidth 422px = 32px of overflow.
+// Cause: the showcase row is a Bootstrap 4 flex line `.media.stream-item` with
+// `flex-wrap: nowrap`. `.media-body` carries `flex: 1 1 0%` but `min-width: auto`,
+// so for entries whose body holds a long, mostly unbreakable citation string the
+// body refuses to shrink; the 80px thumbnail (`.ml-3`, 150px image scaled down)
+// is then pushed past the row's right edge and out of the viewport.
+//
+// Isolation confirmed the thumbnails are the sole cause: hiding `.ml-3` returns
+// scrollWidth to exactly 390px.
+//
+// Fix: allow `.media-body` to shrink below its content width and cap the
+// thumbnail, so the row stays side-by-side but never exceeds the viewport.
+// ---------------------------------------------------------------------------
+@media (max-width: 767.98px) {
+  // `min-width: 0` is what actually permits the flex item to shrink; without
+  // it the automatic minimum size pins the item to its min-content width.
+  .media.stream-item.view-compact .media-body {
+    min-width: 0;
+    flex: 1 1 0%;
+    // Long DOIs / URLs / author lists should break rather than widen the row.
+    overflow-wrap: anywhere;
+  }
+
+  // Allow the thumbnail to shrink a little rather than push the row wider.
+  .media.stream-item.view-compact > .ml-3 {
+    flex: 0 1 auto;
+    min-width: 0;
+    max-width: 30%;
+  }
+
+  .media.stream-item.view-compact > .ml-3 img {
+    height: auto;
+    max-width: 100%;
+  }
+}
