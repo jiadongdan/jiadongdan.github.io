@@ -6,7 +6,7 @@ date: 2023-04-25
 sections:
   - block: markdown
     content:
-      title: '<h1 style="text-align: left;">Awards and Honors</h1>'
+      title: 'Awards and Honors'
       subtitle:
       text: |-
         <span style="color:darkgray">[**2024**]</span> ✈️Kavli IPMU Travel Award (AI-Driven Discovery in Physics and Astrophysics) <br/>
@@ -18,7 +18,7 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: '<h1 style="text-align: left;">Academic Service</h1>'
+      title: 'Academic Service'
       subtitle:
       text: |-
         <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>[Post-doc subcommittee member](https://microscopy.org/postdoc-officers) at [Microscopy Society of America](https://microscopy.org/) since 2024 <br/>

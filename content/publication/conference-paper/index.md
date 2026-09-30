@@ -74,9 +74,10 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-# prevent it appearing in any page collections
+# Unused HugoBlox demo content (Lorem ipsum abstract, placeholder authors).
+# Not rendered or listed, so /publication/conference-paper/ is not a live page.
 _build:
-  render: always
+  render: never
   list: never
 ---
 

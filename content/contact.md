@@ -3,6 +3,13 @@ title: Contact
 type: landing
 date: 2022-10-25
 
+# Unused: this page still holds HugoBlox template placeholder content
+# (Lorem ipsum, test@example.org, Stanford address) and its Netlify form
+# cannot work on GitHub Pages. Not rendered and not listed until it is
+# filled in with real details.
+_build:
+  render: never
+
 sections:
   - block: contact
     content:

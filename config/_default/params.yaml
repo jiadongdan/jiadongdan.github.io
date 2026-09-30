@@ -23,7 +23,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     #description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    description: 'Jiadong Dan, an Eric and Wendy Schimdt AI in Science Fellow, his personal website published with Hugo.'
+    description: 'Jiadong Dan — Eric and Wendy Schmidt AI in Science Fellow at NUS. Machine learning for atomic-resolution electron microscopy and disordered materials.'
     twitter: 'jiadong_dan'
   analytics:
     google_analytics: ''
@@ -69,7 +69,9 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: true
+    # Disabled: no page uses math, and MathJax is ~1.16 MB (47% of homepage weight).
+    # Enable per-page only if a formula is needed.
+    enable: false
   privacy_pack:
     enable: false
   repository:

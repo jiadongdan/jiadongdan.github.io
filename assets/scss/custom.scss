@@ -12,21 +12,28 @@ a {
 }
 
 // Apply the same styles to elements with class .btn, this controls the text color in the button
-.btn {
+// NOTE: scoped to outline/link buttons only. Applying the dark red to all `.btn` also
+// hit filled `.btn-primary`, producing dark-red text on the dark theme colour
+// (measured 1.29:1 on the contact "Send" button — fails WCAG AA).
+.btn-outline-primary,
+.btn-link {
   @include link-styles;
+}
+
+.btn-outline-primary {
+  border-color: #8C1515;
+  //border-color: #dd2c00;
+}
+
+// Filled buttons keep white text so they stay legible on the dark primary colour.
+.btn-primary {
+  color: #ffffff;
 
   &:hover {
     color: #ffffff;
     background-color: lighten(#8C1515, 10%);
     border-color: #8C1515;
   }
-}
-
-// Apply the same styles to elements with class .btn-outline-primary
-.btn-outline-primary {
-  @include link-styles;
-  border-color: #8C1515;
-  //border-color: #dd2c00;
 }
 
 // 
