@@ -51,9 +51,14 @@ jobs:
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-      # Generate Pagefind search index should happen before the final Upload artifact step
-      - name: Generate Pagefind search index
-        run: npx pagefind --source "public"
+      # NOTE: A `npx pagefind` step used to run here and produced a
+      # `public/pagefind/` index (~40 KB) on every deploy. blox-bootstrap
+      # v5.9.6 has no Pagefind integration -- its only search providers are
+      # the built-in Fuse.js engine (`provider: wowchemy`) and Algolia, both
+      # of which read `index.json`. Nothing in the site ever requested the
+      # Pagefind bundle, so the step was pure deploy weight and was removed.
+      # Search is now wired up via `features.search.provider: wowchemy` in
+      # config/_default/params.yaml.
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

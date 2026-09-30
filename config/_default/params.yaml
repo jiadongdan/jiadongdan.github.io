@@ -41,7 +41,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: false
+    show_search: true
     highlight_active_link: true
 
 # Site footer
@@ -94,7 +94,16 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: ''
+    # Built-in client-side search (Fuse.js over the generated index.json).
+    # The theme's navbar shows a search icon when `provider` is set and
+    # `header.navbar.show_search` is true; the modal opens on `/` and closes
+    # on ESC. Only "wowchemy" and "algolia" are supported by blox-bootstrap
+    # v5.9.6 -- Pagefind is NOT integrated in this version, which is why the
+    # Pagefind index the CI used to build was never consumed by anything.
+    provider: 'wowchemy'
+    wowchemy:
+      min_length: 1
+      threshold: 0.3
     algolia:
       app_id: ''
       api_key: ''

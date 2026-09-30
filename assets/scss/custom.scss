@@ -157,3 +157,36 @@ i.author-equal.fas.fa-hashtag {
     max-width: 100%;
   }
 }
+
+// ---------------------------------------------------------------------------
+// 3. `/publication/` 1px horizontal overflow on narrow viewports (issue #10b).
+//
+// `layouts/section/publication.html` (from the theme) wraps its content in:
+//   <div class="universal-wrapper"><div class="row"> ...
+// `.universal-wrapper` supplies NO horizontal padding, but `.row` carries
+// Bootstrap's `margin-left/right: -15px` gutter. With nothing to absorb the
+// negative margin, the row renders from x=-1 to x=(viewport+1), i.e. it is
+// 1px wider than the document and the page scrolls sideways by 1px.
+//
+// Verified culprit: the *only* element whose right edge exceeded
+// `documentElement.clientWidth` was `div.row` (left=-1, right=376 at 375px),
+// and its parent `.universal-wrapper` was exactly 375px wide with 0 padding.
+//
+// Fix: cancel the gutter when the wrapper has no padding to absorb it.
+// Scoped to `.universal-wrapper` so the normal `.container`-based pages
+// (which DO have padding) keep their intended gutters.
+// ---------------------------------------------------------------------------
+.universal-wrapper > .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+// The `-start`/`-end` rows emitted by `_default/list.html` and the
+// publication form-row use the same wrapper and need the same treatment,
+// but their inner `.col-*` children carry `padding-left/right: 15px` which
+// would then overhang by 15px each side. Zero the gutter on the row and let
+// the columns keep their padding, matching the visual result of a container.
+.universal-wrapper > .form-row {
+  margin-left: 0;
+  margin-right: 0;
+}
