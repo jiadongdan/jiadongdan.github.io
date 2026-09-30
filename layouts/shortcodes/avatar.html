@@ -1,0 +1,61 @@
+{{/* Optimised author avatar.
+
+     The homepage used to hardcode `<img src="/authors/admin/avatar.jpg">`, which
+     served the raw 1000x1128 JPEG (~271 KB) into a 170px circle and bypassed
+     Hugo's image pipeline entirely. That single image was ~19% of homepage weight.
+
+     This shortcode runs the source through the pipeline instead, emitting a
+     resized copy plus a 2x variant for high-DPI screens. `.Fill` keeps the
+     source format (JPEG here) and honours the site's `imaging.quality: 75` and
+     Lanczos resampler, so 170x170 lands at ~4.5 KB (from 277 KB).
+
+     Note: `.Fill` alone does not convert to WebP. To emit WebP, wrap with
+     `.Process` and a `webp` target, e.g.
+         {{ $1x = $img.Fill "170x170 Center" | images.Filter ... }}
+     or set `imaging.defaultImageConfig` in the site config. Not done here to
+     keep the change minimal; JPEG output is already ~98% smaller.
+
+     Usage (inside any markdown block):
+
+         {{< avatar >}}
+
+     Optional named args:
+         author - author folder under `content/authors/` (default "admin")
+         size   - CSS pixel size of the rendered square (default 170)
+         emoji  - status emoji anchored to the bottom-right (default "☕️")
+*/}}
+
+{{- $author := .Get "author" | default "admin" -}}
+{{- $size := int (.Get "size" | default 170) -}}
+{{- $emoji := .Get "emoji" | default "☕️" -}}
+
+{{- $page := site.GetPage (printf "/authors/%s" $author) -}}
+{{- $img := "" -}}
+{{- with $page -}}
+  {{- with (.Resources.ByType "image").GetMatch "avatar*" -}}
+    {{- $img = . -}}
+  {{- end -}}
+{{- end -}}
+
+<div class="profile-wrapper position-relative" style="width: {{ add $size 10 }}px; height: {{ add $size 10 }}px;">
+  <div class="profile-picture-container" style="width: {{ $size }}px; height: {{ $size }}px; border-radius: 50%; overflow: hidden;">
+    {{- if $img -}}
+      {{- $1x := $img.Fill (printf "%dx%d Center" $size $size) -}}
+      {{- $2x := $img.Fill (printf "%dx%d Center" (mul $size 2) (mul $size 2)) -}}
+      <img
+        src="{{ $1x.RelPermalink }}"
+        srcset="{{ $1x.RelPermalink }} 1x, {{ $2x.RelPermalink }} 2x"
+        width="{{ $size }}"
+        height="{{ $size }}"
+        alt="Profile picture of {{ $page.Title | default site.Title }}"
+        loading="eager"
+        decoding="async"
+        style="width: 100%; height: 100%; object-fit: cover;">
+    {{- else -}}
+      {{- warnf "avatar shortcode: no image resource found on /authors/%s" $author -}}
+    {{- end -}}
+  </div>
+  {{- with $emoji -}}
+    <span class="status-emoji" style="position: absolute; bottom: 20px; right: 15px; font-size: 20px;">{{ . }}</span>
+  {{- end -}}
+</div>

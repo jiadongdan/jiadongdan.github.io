@@ -29,12 +29,7 @@ sections:
       text: |-
         <div class="row" style="padding-top: 20px; padding-bottom: 30px;">
          <div class="col-sm-4 d-flex justify-content-center align-items-center">
-            <div class="profile-wrapper position-relative" style="width: 180px; height: 180px;">
-              <div class="profile-picture-container" style="width: 170px; height: 170px; border-radius: 50%; overflow: hidden;">
-                  <img style="width: 100%; height: 100%; object-fit: cover;" src="/authors/admin/avatar.jpg" alt="Profile Picture">
-              </div>
-              <span class="status-emoji" style="position: absolute; bottom: 20px; right: 15px; font-size: 20px;">☕️</span>
-            </div>
+            {{< avatar size="170" >}}
          </div>
          <div class="col-sm-8 d-flex flex-column justify-content-center align-items-center align-items-sm-start text-center text-sm-left">
               <h1 class="portrait-title">Jiadong Dan</h1>

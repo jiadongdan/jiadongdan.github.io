@@ -68,6 +68,17 @@ user_groups:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# Do not publish the raw source assets for this page.
+# `avatar.jpg` is 1000x1128 / ~271 KB and is only ever used as *input* to Hugo's
+# image pipeline (see `layouts/shortcodes/avatar.html` and the theme's SEO
+# partial, both of which call `.Fill`). Without this, the raw file was copied to
+# `public/authors/admin/avatar.jpg` and deployed on every build while nothing
+# linked to it — 271 KB of dead weight per deploy.
+# `publishResources: false` keeps the resource readable by templates; only the
+# copy step is skipped, so the generated derivatives still ship.
+_build:
+  publishResources: false
 ---
 
 **Jiadong Dan** is a [Schmidt AI in Science Fellow](https://www.schmidtfutures.com/our-work/schmidt-ai-in-science-postdocs/) at the National University of Singapore (NUS), specializing in the intersection of machine learning (ML) and scanning transmission electron microscopy (STEM). Guided by Prof. [Stephen J. Pennycook](https://scholar.google.com/citations?user=UnDfo6sAAAAJ&hl=en), my Ph.D. research innovatively applied ML to identify quantum defects in atomic resolution STEM images. Now in Asst. Prof. [Duane Loh](https://www.physics.nus.edu.sg/faculty/loh-duane/)'s group, I am advancing a robust ML framework to characterize materials through a hierarchy of structural motifs. Leveraging my deep expertise, I aim to develop an *electron microscope copilot system* to improve material analysis and enhance understanding of material disorders.
